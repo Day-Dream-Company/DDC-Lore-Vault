@@ -1,0 +1,34 @@
+name: Sync submodule pointer in DDC-Canon
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-canon:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout DDC-Lore-Vault
+        uses: actions/checkout@v3
+
+      - name: Get latest commit hash
+        run: echo "LATEST_COMMIT=$(git rev-parse HEAD)" >> $GITHUB_ENV
+
+      - name: Checkout DDC-Canon repo
+        uses: actions/checkout@v3
+        with:
+          repository: Day-Dream-Company/DDC-Canon
+          token: ${{ secrets.DDC_CANON_ACTIONS }}
+          ref: WIP
+          path: canon
+
+      - name: Update submodule pointer
+        run: |
+          cd canon
+          git config user.name "DDC-Canon Actions"
+          git config user.email "bot@daydream.company"
+          git submodule update --remote source/content
+          git add source/content
+          git commit -m "Auto-update submodule to $LATEST_COMMIT" || echo "No changes to commit"
+          git push origin WIP
