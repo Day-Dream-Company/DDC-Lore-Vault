@@ -27,7 +27,18 @@ jobs:
           git config user.name "DDC-Canon Actions"
           git config user.email "bot@daydream.company"
           git config --global url."https://x-access-token:${{ secrets.DDC_CANON_ACTIONS }}@github.com/".insteadOf "https://github.com/"
-          git submodule update --init --remote source/content
+          
+          echo "Before update:"
+          git submodule status source/content
+          
+          cd source/content
+          git fetch
+          git checkout main
+          cd ../..
+          
+          echo "After update:"
+          git submodule status source/content
+          
           git add source/content
           git commit -m "Auto-update submodule to $LATEST_COMMIT" || echo "No changes to commit"
           git push origin main
