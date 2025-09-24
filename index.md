@@ -1,5 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: DDC Lore Vault
 ---
 
 This is the DDC lore vault/canon compendium.
