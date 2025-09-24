@@ -30,4 +30,4 @@ jobs:
           git submodule update --init --remote source/content
           git add source/content
           git commit -m "Auto-update submodule to $LATEST_COMMIT" || echo "No changes to commit"
-          git push origin WIP
+          git push origin main
