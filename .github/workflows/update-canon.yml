@@ -19,7 +19,7 @@ jobs:
           repository: Day-Dream-Company/DDC-Canon
           token: ${{ secrets.DDC_CANON_ACTIONS }}
           ref: WIP
-          path: canon
+          path: main
 
       - name: Update submodule pointer
         run: |
