@@ -30,6 +30,9 @@ jobs:
           git fetch origin main
           git checkout $(git rev-parse origin/main)   # move HEAD to the latest commit
           cd ../..
+
+          # Tell the parent repo to record the new commit pointer
+          git add source/content-submodule
           
           echo "After update:"
           git submodule status source/content-submodule
