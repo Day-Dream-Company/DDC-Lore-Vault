@@ -7,11 +7,6 @@ jobs:
   update-canon:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout DDC-Lore-Vault
-        uses: actions/checkout@v3
-
-      - name: Get latest commit hash
-        run: echo "LATEST_COMMIT=$(git rev-parse HEAD)" >> $GITHUB_ENV
 
       - name: Checkout DDC-Canon repo
         uses: actions/checkout@v3
@@ -32,8 +27,8 @@ jobs:
           git submodule status source/content-submodule
           
           cd source/content-submodule
-          git fetch
-          git checkout main
+          git fetch origin main
+          git checkout origin/main
           cd ../..
           
           echo "After update:"
