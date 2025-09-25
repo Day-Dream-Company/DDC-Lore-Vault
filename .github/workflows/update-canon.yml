@@ -28,7 +28,7 @@ jobs:
           
           cd source/content-submodule
           git fetch origin main
-          git checkout origin/main
+          git checkout $(git rev-parse origin/main)   # move HEAD to the latest commit
           cd ../..
           
           echo "After update:"
