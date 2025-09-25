@@ -23,20 +23,11 @@ jobs:
           git config user.email "bot@daydream.company"
           git config --global url."https://x-access-token:${{ secrets.DDC_CANON_ACTIONS }}@github.com/".insteadOf "https://github.com/"
           
-          echo "Before update:"
-          git submodule status source/content-submodule
-          
+          git submodule update --init --recursive
           cd source/content-submodule
-          git fetch origin main
-          git checkout $(git rev-parse origin/main)   # move HEAD to the latest commit
+          git checkout main
+          git pull origin main
           cd ../..
-
-          # Tell the parent repo to record the new commit pointer
           git add source/content-submodule
-          
-          echo "After update:"
-          git submodule status source/content-submodule
-          
-          git add source/content-submodule
-          git commit -m "Auto-update submodule to $LATEST_COMMIT" || echo "No changes to commit"
+          git commit -m "Update submodule to latest commit on main"
           git push origin main
