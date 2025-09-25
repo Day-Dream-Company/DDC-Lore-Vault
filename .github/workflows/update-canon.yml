@@ -29,7 +29,7 @@ jobs:
           git config --global url."https://x-access-token:${{ secrets.DDC_CANON_ACTIONS }}@github.com/".insteadOf "https://github.com/"
           
           echo "Before update:"
-          git submodule status source/content
+          git submodule status source/content-submodule
           
           cd source/content-submodule
           git fetch
