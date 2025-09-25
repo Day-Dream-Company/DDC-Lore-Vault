@@ -3,4 +3,5 @@ title: DDC Lore Vault
 ---
 
 This is the DDC lore vault/canon compendium.
-This is a super rough WIP site.
+
+# This site is currently in a Work-In-Progress state. None of its contents have been approved as canon.

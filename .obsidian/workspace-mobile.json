@@ -139,9 +139,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "bdfaac23ce41dfb7",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,15 +161,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e6093656a4b6982f",
   "lastOpenFiles": [
     "Magic System (WIP).md",
+    "index.md",
     "category-folder/index.md",
     "category-folder/Some note.md",
-    "category-folder",
-    "index.md"
+    "category-folder"
   ]
 }
