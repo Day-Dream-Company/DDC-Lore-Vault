@@ -31,14 +31,14 @@ jobs:
           echo "Before update:"
           git submodule status source/content
           
-          cd source/content
+          cd source/content-submodule
           git fetch
           git checkout main
           cd ../..
           
           echo "After update:"
-          git submodule status source/content
+          git submodule status source/content-submodule
           
-          git add source/content
+          git add source/content-submodule
           git commit -m "Auto-update submodule to $LATEST_COMMIT" || echo "No changes to commit"
           git push origin main
