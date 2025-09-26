@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Character List.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Character List"
+              "title": "index"
             }
           }
         ]
@@ -182,9 +182,10 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "Characters/Aster Kenos.md",
-    "Characters/Character List.md",
+    "Characters/Characters.md",
+    "Home Page",
     "index.md",
+    "Characters/Aster Kenos.md",
     "Characters",
     "Magic/Magic System.md",
     "category-folder/index.md",
