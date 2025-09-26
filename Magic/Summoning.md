@@ -1,0 +1,11 @@
+Summoning is the magical process of moving something through space. *(This should be more generalized, because "space" is only a subset of the dimensions you could move along. Time and "astral" are both dimensions summoning can move you along, though in limited ways sometimes.)* There are two main disciplines of summoning magic: Instant transposition, and pocket dimension summoning. (Rethink both of these names)
+
+In addition to moving physical objects through space, it is also possible to move more abstract ideas and concept using summoning. these abstract ideas/concepts can include things like thoughts, intentions, information, and commands to achieve effects like telepathy. The limitations to such can include distance, with more Aura being required to move the spell greater distances, and the target's ability to discern their own intentions from the caster's using their intuition.
+
+Long term repeated movement of an object(s) using Summoning to and from the same locations creates a "highway" through the ethereal plane that reduces the limits of Summoning between the locations.
+# Instant Transportation Summoning
+Instant Transportation has to do with moving something instantly through space on the same plane of existence that one is on to achieve effects like teleportation and telekinesis.
+# Pocket Dimension Summoning
+Pocket dimension summoning has to do with moving something to and from pocket dimension the user is connected to and possesses. This pocket dimension's capacity is corelated to the user's strength and skill, with stronger mages being able to move more heavier and larger objects to and from. These pocket dimensions are extradimensional spaces unique to a certain person or group where access to the space can be given consensually. Otherwise, one mage would have no access to another's pocket dimension.
+# Restrictions
+Summoning are limited by the dimensions of the thing the user is trying to move, with size, weight, and mass (lol) all being factors. Mages are able to decrees these limits (and increase the number of portals to the pocket dimension) as the increase in strength. Instant transportation summoning is also limited by the caster's ability to visualize where the object they're moving will end up. The caster's familiarity with the location increases the accuracy of the spell.
