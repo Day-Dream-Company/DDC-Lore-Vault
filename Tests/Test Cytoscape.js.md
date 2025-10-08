@@ -57,4 +57,5 @@
       spacingFactor: 1.5
     }
   });
+  cy.nodes().forEach(n => n.lock());
 </script>
