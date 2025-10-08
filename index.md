@@ -8,3 +8,5 @@ This is the DDC lore vault/canon compendium.
 # Main Topics
 - [[Magic System]]
 - [[Characters]]
+# Canvas Test
+- [[Test Canvas.canvas|Test Canvas]]
