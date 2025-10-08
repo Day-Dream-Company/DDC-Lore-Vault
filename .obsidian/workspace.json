@@ -11,17 +11,14 @@
             "id": "2d8837e6263008e3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Test Canvas.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Test Canvas"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -185,8 +182,8 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "index.md",
     "Test Canvas.canvas",
+    "index.md",
     "Characters/Characters.md",
     "Home Page",
     "Characters/Aster Kenos.md",
