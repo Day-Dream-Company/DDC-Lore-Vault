@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tests/Test Vis-Timeline.md",
+                "file": "Tests/Promising/Test Vis-Timeline.md",
                 "mode": "source",
                 "source": false
               },
@@ -183,8 +183,10 @@
   },
   "active": "f2b8b589ecf4a259",
   "lastOpenFiles": [
+    "Tests/Promising/Test GitGraph.md",
+    "Tests/Promising",
+    "Tests/Promising/Test Vis-Timeline.md",
     "Tests/Test Markwhen.md",
-    "Tests/Test Vis-Timeline.md",
     "Tests/Test Chronos Timeline.md",
     "Tests/Test Cytoscape.js.md",
     "Tests/Test SVG Note.md",
@@ -204,7 +206,6 @@
     "assets",
     "New folder",
     "Tests/Test Assets/DDC_Vault_Timeline.drawio.svg",
-    "Tests/Test Assets",
     "Tests/Test Canvas.canvas",
     "Tests/Drawing 2025-10-07 23.00.57.excalidraw.md",
     "Tests/Drawing 2025-10-07 22.58.07.excalidraw.md",
