@@ -35,14 +35,19 @@
   ]);
 
   // Timeline options
-  const options = {
-    editable: true,
-    stack: false,          // keeps each group separate
+const options = {
+	editable: {
+		add: false,      // prevent adding
+	    remove: false,   // prevent deleting
+	    updateTime: false, // prevent moving in time
+	    updateGroup: false // prevent moving between tracks
+	  },
+	stack: false,          // keeps each group separate
     margin: {item: 20},
     orientation: 'top',
-    zoomable: true,
-    moveable: true
-  };
+	zoomable: true,
+	moveable: true
+};
 
   new vis.Timeline(container, items, groups, options);
 </script>
