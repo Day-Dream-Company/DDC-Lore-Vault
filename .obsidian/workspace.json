@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tests/Test Mermaid Graph.md",
-                "mode": "preview",
+                "file": "Tests/Promising/Mermaid GitGraph.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test Mermaid Graph"
+              "title": "Mermaid GitGraph"
             }
           }
         ]
@@ -183,11 +183,11 @@
   },
   "active": "f2b8b589ecf4a259",
   "lastOpenFiles": [
+    "Tests/Promising/Test Vis-Timeline.md",
+    "Tests/Test GitGraph.md",
     "Tests/Promising/Mermaid GitGraph.md",
     "Tests/Test Mermaid Graph.md",
     "Tests/Test Mermaid Gantt.md",
-    "Tests/Promising/Test Vis-Timeline.md",
-    "Tests/Promising/Test GitGraph.md",
     "Tests/Promising",
     "Tests/Test Markwhen.md",
     "Tests/Test Chronos Timeline.md",
