@@ -1,2 +1,2 @@
-<object type="image/svg+xml" data="./Test%20Assets/DDC_Vault_Timeline.drawio.svg"></object>
-![Timeline](./Test%20Assets/DDC_Vault_Timeline.drawio.svg)
+<object type="image/svg+xml" data="/assets/DDC_Vault_Timeline.drawio.svg"></object>
+![Timeline](/assets/DDC_Vault_Timeline.drawio.svg)
