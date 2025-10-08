@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tests/Promising/Mermaid GitGraph.md",
-                "mode": "source",
+                "file": "Tests/Extra Promising/Test Mermaid Gantt.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mermaid GitGraph"
+              "title": "Test Mermaid Gantt"
             }
           }
         ]
@@ -183,16 +183,20 @@
   },
   "active": "f2b8b589ecf4a259",
   "lastOpenFiles": [
-    "Tests/Promising/Test Vis-Timeline.md",
-    "Tests/Test GitGraph.md",
-    "Tests/Promising/Mermaid GitGraph.md",
-    "Tests/Test Mermaid Graph.md",
-    "Tests/Test Mermaid Gantt.md",
-    "Tests/Promising",
-    "Tests/Test Markwhen.md",
-    "Tests/Test Chronos Timeline.md",
-    "Tests/Test Cytoscape.js.md",
-    "Tests/Test SVG Note.md",
+    "Tests/Functional/Test Vis-Timeline.md",
+    "Tests/Functional/Test Markwhen.md",
+    "Tests/Functional/Test Cytoscape.js.md",
+    "Tests/Extra Promising/Test Mermaid GitGraph.md",
+    "Tests/Extra Promising/Test Mermaid Gantt.md",
+    "Tests/Terrible/Test SVG Note.md",
+    "Tests/Functional/Test Mermaid Subgraph.md",
+    "Tests/Functional/Test Mermaid Graph.md",
+    "Tests/Terrible/Test GitGraph.md",
+    "Tests/Terrible/Test Canvas.canvas",
+    "Tests/Terrible",
+    "Tests/Functional",
+    "Tests/Extra Promising",
+    "Tests/Terrible/Test Chronos Timeline.md",
     "Tests/Test Canvas Viewer/README.md",
     "Tests/Test Canvas Viewer/index.html",
     "Tests/Test Canvas Viewer/colors.config.js",
@@ -206,13 +210,9 @@
     "Tests/Test Canvas Viewer",
     "Tests/New folder",
     "assets/DDC_Vault_Timeline.drawio.svg",
-    "assets",
-    "New folder",
     "Tests/Test Assets/DDC_Vault_Timeline.drawio.svg",
-    "Tests/Test Canvas.canvas",
     "Tests/Drawing 2025-10-07 23.00.57.excalidraw.md",
     "Tests/Drawing 2025-10-07 22.58.07.excalidraw.md",
-    "Tests/Test Mermaid Subgraph.md",
     "Excalidraw/Drawing 2025-10-07 22.58.36.excalidraw.md",
     "index.md",
     "Characters/Characters.md",
