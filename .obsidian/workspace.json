@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tests/Test Markwhen.md",
+                "file": "Tests/Test Vis-Timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test Markwhen"
+              "title": "Test Vis-Timeline"
             }
           }
         ]
@@ -183,8 +183,9 @@
   },
   "active": "f2b8b589ecf4a259",
   "lastOpenFiles": [
-    "Tests/Test Chronos Timeline.md",
     "Tests/Test Markwhen.md",
+    "Tests/Test Vis-Timeline.md",
+    "Tests/Test Chronos Timeline.md",
     "Tests/Test Cytoscape.js.md",
     "Tests/Test SVG Note.md",
     "Tests/Test Canvas Viewer/README.md",
