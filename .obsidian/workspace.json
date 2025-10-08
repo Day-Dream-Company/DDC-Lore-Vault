@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tests/Promising/Test Vis-Timeline.md",
-                "mode": "source",
+                "file": "Tests/Test Mermaid Graph.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test Vis-Timeline"
+              "title": "Test Mermaid Graph"
             }
           }
         ]
@@ -183,9 +183,12 @@
   },
   "active": "f2b8b589ecf4a259",
   "lastOpenFiles": [
+    "Tests/Promising/Mermaid GitGraph.md",
+    "Tests/Test Mermaid Graph.md",
+    "Tests/Test Mermaid Gantt.md",
+    "Tests/Promising/Test Vis-Timeline.md",
     "Tests/Promising/Test GitGraph.md",
     "Tests/Promising",
-    "Tests/Promising/Test Vis-Timeline.md",
     "Tests/Test Markwhen.md",
     "Tests/Test Chronos Timeline.md",
     "Tests/Test Cytoscape.js.md",
@@ -212,8 +215,6 @@
     "Tests/Test Mermaid Subgraph.md",
     "Excalidraw/Drawing 2025-10-07 22.58.36.excalidraw.md",
     "index.md",
-    "Tests/Test Mermaid Graph.md",
-    "Tests/Test Mermaid Gantt.md",
     "Characters/Characters.md",
     "Characters/Aster Kenos.md",
     "Magic/Magic System.md",
