@@ -36,7 +36,10 @@
   --tl-wire-alpha: 0.85;
   --tl-wire-curvature: 0.18;
 }
-.tl-root { position: relative; width: 100%; overflow: hidden; }
+.tl-root {
+  position: relative;
+  width: 100%;
+}
 .tl-scroll {
   display: grid;
   grid-auto-flow: column;
@@ -47,24 +50,26 @@
 }
 .tl-event {
   border-radius: 8px;
-  border: 1px solid rgba(0,0,0,0.1);
-  background: #fff;
+  border: 1px solid var(--background-modifier-border);
+  background: var(--background-primary);
+  color: var(--text-normal);
   padding: 12px 14px;
   margin-block: 12px;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.06);
+  box-shadow: 0 1px 2px var(--background-modifier-box-shadow);
 }
 .tl-event h4 { margin: 0 0 8px 0; }
-.tl-event[data-color="blue"]   { border-color: #3498db33; background: #3498db10; }
-.tl-event[data-color="green"]  { border-color: #2ecc7133; background: #2ecc7110; }
-.tl-event[data-color="red"]    { border-color: #e74c3c33; background: #e74c3c10; }
+.tl-event[data-color="blue"]   { border-left: 4px solid #3498db; }
+.tl-event[data-color="green"]  { border-left: 4px solid #2ecc71; }
+.tl-event[data-color="red"]    { border-left: 4px solid #e74c3c; }
 .tl-wires {
   position: absolute;
-  inset: 0;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
   pointer-events: none;
 }
 .tl-wire-path {
   fill: none;
-  stroke: #34495e;
+  stroke: var(--text-muted);
   stroke-width: var(--tl-wire-width);
   opacity: var(--tl-wire-alpha);
 }
@@ -99,16 +104,20 @@ function drawWires(root) {
     if (link.color) path.style.stroke = link.color;
     svg.appendChild(path);
   }
+  // Resize SVG to cover scroll area
   const sr = scroll.getBoundingClientRect();
   svg.setAttribute('viewBox', `0 0 ${sr.width} ${sr.height}`);
   svg.setAttribute('width', sr.width);
   svg.setAttribute('height', sr.height);
 }
-document.addEventListener('DOMContentLoaded', () => {
+function render() {
   const root = document.querySelector('.tl-root');
   if (!root) return;
   drawWires(root);
-  window.addEventListener('resize', () => drawWires(root));
-  root.querySelector('.tl-scroll').addEventListener('scroll', () => drawWires(root));
+}
+document.addEventListener('DOMContentLoaded', () => {
+  render();
+  window.addEventListener('resize', render);
+  document.querySelector('.tl-scroll').addEventListener('scroll', render);
 });
 </script>
