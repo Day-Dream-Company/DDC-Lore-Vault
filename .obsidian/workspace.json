@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tests/Extra Promising/Test Mermaid Gantt.md",
-                "mode": "preview",
+                "file": "Tests/Test Fully Custom HTML Timeline.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test Mermaid Gantt"
+              "title": "Test Fully Custom HTML Timeline"
             }
           }
         ]
@@ -177,17 +177,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "f2b8b589ecf4a259",
   "lastOpenFiles": [
+    "Tests/Extra Promising/Test Mermaid GitGraph.md",
+    "Tests/Test Fully Custom HTML Timeline.md",
+    "Tests/Extra Promising/Test Mermaid Gantt.md",
     "Tests/Functional/Test Vis-Timeline.md",
     "Tests/Functional/Test Markwhen.md",
     "Tests/Functional/Test Cytoscape.js.md",
-    "Tests/Extra Promising/Test Mermaid GitGraph.md",
-    "Tests/Extra Promising/Test Mermaid Gantt.md",
     "Tests/Terrible/Test SVG Note.md",
     "Tests/Functional/Test Mermaid Subgraph.md",
     "Tests/Functional/Test Mermaid Graph.md",

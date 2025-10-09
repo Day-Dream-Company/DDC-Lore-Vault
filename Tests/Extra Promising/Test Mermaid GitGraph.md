@@ -1,4 +1,11 @@
 ```mermaid
+---
+config:
+   logLevel: 'debug'
+   theme: 'base'
+   gitGraph:
+      rotateCommitLabel: true
+---
 gitGraph
    commit id: "Init"
    branch develop
