@@ -1,45 +1,66 @@
 <div class="tl-root">
   <svg class="tl-wires" xmlns="http://www.w3.org/2000/svg"></svg>
   <div class="tl-scroll">
+    <!-- Column Alpha -->
     <div class="tl-col">
-      <div class="tl-event" id="ev-a1" data-color="blue">
+      <div class="tl-event" id="ev-a1">
         <h4>Arrival</h4>
         <p>The expedition lands at Duskport.</p>
       </div>
-      <div class="tl-event" id="ev-a2" data-color="green">
+      <div class="tl-event" id="ev-a2">
         <h4>Customs inspection</h4>
         <p>Routine check uncovers a sealed crate.</p>
       </div>
     </div>
+
+    <!-- Column Beta -->
     <div class="tl-col">
-      <div class="tl-event" id="ev-b1" data-color="red">
+      <div class="tl-event" id="ev-b1">
         <h4>Scout briefing</h4>
         <p>Route options: ridge path vs. marsh road.</p>
+      </div>
+      <div class="tl-event" id="ev-b2" data-after="#ev-c1">
+        <h4>Marsh incident</h4>
+        <p>Encounter near mile marker 12.</p>
+      </div>
+    </div>
+
+    <!-- Column Gamma -->
+    <div class="tl-col">
+      <div class="tl-event" id="ev-c1">
+        <h4>Town council hearing</h4>
+        <p>Permit for night operations requested.</p>
+      </div>
+    </div>
+
+    <!-- Column Delta (new) -->
+    <div class="tl-col">
+      <div class="tl-event" id="ev-d1">
+        <h4>Warehouse lease</h4>
+        <p>Secured a 3‑month lease near the east quay.</p>
       </div>
     </div>
   </div>
 </div>
 
+<!-- Declare connections -->
 <script type="application/json" id="tl-links">
 [
-  { "from": "#ev-a1", "to": "#ev-b1", "color": "#7f8c8d" },
-  { "from": "#ev-a2", "to": "#ev-b1", "color": "#c0392b" }
+  { "from": "#ev-a1", "to": "#ev-b1" },
+  { "from": "#ev-a2", "to": "#ev-c1" },
+  { "from": "#ev-b1", "to": "#ev-d1" }
 ]
 </script>
 
 <style>
 :root {
-  --tl-col-width: 320px;
+  --tl-col-width: 280px;
   --tl-col-gap: 24px;
   --tl-padding: 16px;
-  --tl-wire-width: 2.5px;
-  --tl-wire-alpha: 0.85;
-  --tl-wire-curvature: 0.18;
+  --tl-wire-width: 2px;
+  --tl-wire-alpha: 0.9;
 }
-.tl-root {
-  position: relative;
-  width: 100%;
-}
+.tl-root { position: relative; width: 100%; }
 .tl-scroll {
   display: grid;
   grid-auto-flow: column;
@@ -49,18 +70,14 @@
   overflow-x: auto;
 }
 .tl-event {
-  border-radius: 8px;
-  border: 1px solid var(--background-modifier-border);
+  border: 2px solid black;
   background: var(--background-primary);
   color: var(--text-normal);
   padding: 12px 14px;
   margin-block: 12px;
-  box-shadow: 0 1px 2px var(--background-modifier-box-shadow);
+  border-radius: 6px;
 }
 .tl-event h4 { margin: 0 0 8px 0; }
-.tl-event[data-color="blue"]   { border-left: 4px solid #3498db; }
-.tl-event[data-color="green"]  { border-left: 4px solid #2ecc71; }
-.tl-event[data-color="red"]    { border-left: 4px solid #e74c3c; }
 .tl-wires {
   position: absolute;
   top: 0; left: 0;
@@ -69,10 +86,11 @@
 }
 .tl-wire-path {
   fill: none;
-  stroke: var(--text-muted);
+  stroke: black;
   stroke-width: var(--tl-wire-width);
   opacity: var(--tl-wire-alpha);
 }
+.tl-spacer { height: var(--tl-spacer-size,0px); }
 </style>
 
 <script>
@@ -101,18 +119,32 @@ function drawWires(root) {
     const path = document.createElementNS('http://www.w3.org/2000/svg','path');
     path.setAttribute('d', d);
     path.setAttribute('class','tl-wire-path');
-    if (link.color) path.style.stroke = link.color;
     svg.appendChild(path);
   }
-  // Resize SVG to cover scroll area
   const sr = scroll.getBoundingClientRect();
   svg.setAttribute('viewBox', `0 0 ${sr.width} ${sr.height}`);
   svg.setAttribute('width', sr.width);
   svg.setAttribute('height', sr.height);
 }
+// Constraint handling: data-after
+function applyConstraints(root) {
+  const scroll = root.querySelector('.tl-scroll');
+  const events = scroll.querySelectorAll('.tl-event');
+  events.forEach(ev => {
+    const afterSel = ev.getAttribute('data-after');
+    if (afterSel) {
+      const other = document.querySelector(afterSel);
+      if (other && ev.offsetTop <= other.offsetTop) {
+        const diff = (other.offsetTop - ev.offsetTop) + other.offsetHeight + 20;
+        ev.style.marginTop = diff + 'px';
+      }
+    }
+  });
+}
 function render() {
   const root = document.querySelector('.tl-root');
   if (!root) return;
+  applyConstraints(root);
   drawWires(root);
 }
 document.addEventListener('DOMContentLoaded', () => {
