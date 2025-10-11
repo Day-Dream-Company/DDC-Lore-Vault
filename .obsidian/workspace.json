@@ -11,14 +11,17 @@
             "id": "f2b8b589ecf4a259",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Tests/Extra Promising/Test Mermaid Gantt.md",
-                "mode": "source",
-                "source": false
+                "file": "Tests/Test Canvas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Test Mermaid Gantt"
+              "icon": "lucide-layout-dashboard",
+              "title": "Test Canvas"
             }
           }
         ]
@@ -177,11 +180,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "webpage-html-export:Export as HTML": false
     }
   },
   "active": "f2b8b589ecf4a259",
   "lastOpenFiles": [
+    "Tests/Test Canvas.html",
+    "Tests/Test Canvas.canvas",
+    "Tests/Extra Promising/Test Mermaid Gantt.md",
     "Tests/Functional/Test Cytoscape.js.md",
     "Tests/Test Canvas Viewer.md",
     "Tests/jsoncanvas/example/Example Canvas/الانتقال من Windows إلى macOS.md",
@@ -209,7 +216,6 @@
     "Tests/TestCanvas.canvas",
     "Tests/Extra Promising/Test Mermaid GitGraph.md",
     "Tests/Test Fully Custom HTML Timeline.md",
-    "Tests/Extra Promising/Test Mermaid Gantt.md",
     "Tests/Functional/Test Vis-Timeline.md",
     "Tests/Functional/Test Markwhen.md",
     "Tests/Terrible/Test SVG Note.md",
@@ -230,7 +236,6 @@
     "Excalidraw/Drawing 2025-10-07 22.58.36.excalidraw.md",
     "index.md",
     "Characters/Characters.md",
-    "Characters/Aster Kenos.md",
-    "Magic/Magic System.md"
+    "Characters/Aster Kenos.md"
   ]
 }
