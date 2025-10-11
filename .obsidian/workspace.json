@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tests/Functional/Test Cytoscape.js.md",
+                "file": "Tests/Test Canvas Viewer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test Cytoscape.js"
+              "title": "Test Canvas Viewer"
             }
           }
         ]
@@ -182,12 +182,14 @@
   },
   "active": "f2b8b589ecf4a259",
   "lastOpenFiles": [
+    "Tests/TestCanvas.canvas",
+    "Tests/Test Canvas Viewer.md",
+    "Tests/Functional/Test Cytoscape.js.md",
     "Tests/Extra Promising/Test Mermaid GitGraph.md",
     "Tests/Test Fully Custom HTML Timeline.md",
     "Tests/Extra Promising/Test Mermaid Gantt.md",
     "Tests/Functional/Test Vis-Timeline.md",
     "Tests/Functional/Test Markwhen.md",
-    "Tests/Functional/Test Cytoscape.js.md",
     "Tests/Terrible/Test SVG Note.md",
     "Tests/Functional/Test Mermaid Subgraph.md",
     "Tests/Functional/Test Mermaid Graph.md",
@@ -221,7 +223,6 @@
     "category-folder/index.md",
     "category-folder/Some note.md",
     "Magic/Aura.md",
-    "Magic/Summoning.md",
-    "Test note.md"
+    "Magic/Summoning.md"
   ]
 }
