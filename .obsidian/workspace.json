@@ -11,14 +11,10 @@
             "id": "f2b8b589ecf4a259",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tests/Test Canvas Viewer.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Test Canvas Viewer"
+              "title": "New tab"
             }
           }
         ]
@@ -180,17 +176,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2b8b589ecf4a259",
+  "active": "7292aedfd65d4567",
   "lastOpenFiles": [
-    "Tests/TestCanvas.html",
-    "Tests/es/minimap.js",
-    "Tests/es/index.js",
-    "Tests/es/mistouchPreventer.js",
-    "Tests/es/debugPanel.js",
-    "Tests/es/controls.js",
-    "Tests/es",
-    "Tests/TestCanvas.canvas",
     "Tests/Test Canvas Viewer.md",
+    "Tests/jsoncanvas/TestCanvas.html",
+    "Tests/jsoncanvas/TestCanvas.canvas",
+    "Tests/jsoncanvas/Test Canvas Viewer.md",
+    "Tests/jsoncanvas/es/index.js",
+    "Tests/jsoncanvas/es/minimap.js",
+    "Tests/jsoncanvas/es/mistouchPreventer.js",
+    "Tests/jsoncanvas/es/debugPanel.js",
+    "Tests/jsoncanvas/es/controls.js",
+    "Tests/jsoncanvas/es",
+    "Tests/jsoncanvas",
+    "Tests/New folder",
+    "Tests/TestCanvas.html",
+    "Tests/TestCanvas.canvas",
     "Tests/Functional/Test Cytoscape.js.md",
     "Tests/Extra Promising/Test Mermaid GitGraph.md",
     "Tests/Test Fully Custom HTML Timeline.md",
@@ -202,12 +203,8 @@
     "Tests/Functional/Test Mermaid Graph.md",
     "Tests/Terrible/Test GitGraph.md",
     "Tests/Terrible/Test Canvas.canvas",
-    "Tests/Terrible",
-    "Tests/Functional",
-    "Tests/Extra Promising",
     "Tests/Terrible/Test Chronos Timeline.md",
     "Tests/Test Canvas Viewer/README.md",
-    "Tests/Test Canvas Viewer/index.html",
     "Tests/Test Canvas Viewer/data/switching-from-windows-to-macos-as-a-developer.md",
     "Tests/Test Canvas Viewer/data/simplebackups-synology-storage.png",
     "Tests/Test Canvas Viewer/data/default.canvas",
@@ -223,7 +220,6 @@
     "Magic/Magic System.md",
     "category-folder/index.md",
     "category-folder/Some note.md",
-    "Magic/Aura.md",
-    "Magic/Summoning.md"
+    "Magic/Aura.md"
   ]
 }
