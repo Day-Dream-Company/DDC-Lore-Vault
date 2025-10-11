@@ -12,7 +12,7 @@
   <div id="canvas-viewer"></div>
 
   <script type="module">
-    import { JSONCanvasViewer } from 'es/index.js'; 
+    import { JSONCanvasViewer } from './es/index.js'; 
     // adjust filename if different in /es build
 
     const viewer = new JSONCanvasViewer("#canvas-viewer", {
@@ -25,7 +25,7 @@
       smoothSplines: true,
     });
 
-    fetch("TestCanvas.canvas")
+    fetch("./TestCanvas.canvas")
       .then(res => res.json())
       .then(data => viewer.load(data))
       .catch(err => console.error(err));
