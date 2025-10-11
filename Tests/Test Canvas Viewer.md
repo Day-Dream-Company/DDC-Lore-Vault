@@ -1,5 +1,5 @@
 ---
-title: Canvas
-enableToc: false
+title: Test Canvas Viewer
 ---
-<iframe src="./TestCanvas.html" style="width:100%; height:85vh; border:none;"></iframe>
+
+<iframe src="./jsoncanvas/TestCanvas.html" style="width:100%; height:85vh; border:none;"></iframe>
