@@ -11,10 +11,14 @@
             "id": "f2b8b589ecf4a259",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tests/Test Canvas Viewer.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Test Canvas Viewer"
             }
           }
         ]
@@ -176,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7292aedfd65d4567",
+  "active": "f2b8b589ecf4a259",
   "lastOpenFiles": [
     "Tests/Test Canvas Viewer.md",
     "Tests/jsoncanvas/TestCanvas.html",
