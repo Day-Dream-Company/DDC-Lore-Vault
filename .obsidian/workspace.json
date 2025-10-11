@@ -11,17 +11,14 @@
             "id": "f2b8b589ecf4a259",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Tests/TestCanvas.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Tests/Test Canvas Viewer.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "TestCanvas"
+              "icon": "lucide-file",
+              "title": "Test Canvas Viewer"
             }
           }
         ]
@@ -183,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "f2b8b589ecf4a259",
   "lastOpenFiles": [
-    "Tests/Functional/Test Cytoscape.js.md",
     "Tests/TestCanvas.canvas",
+    "Tests/Test Canvas Viewer.md",
+    "Tests/Functional/Test Cytoscape.js.md",
     "Tests/Extra Promising/Test Mermaid GitGraph.md",
     "Tests/Test Fully Custom HTML Timeline.md",
     "Tests/Extra Promising/Test Mermaid Gantt.md",
@@ -225,7 +223,6 @@
     "category-folder/index.md",
     "category-folder/Some note.md",
     "Magic/Aura.md",
-    "Magic/Summoning.md",
-    "Test note.md"
+    "Magic/Summoning.md"
   ]
 }
