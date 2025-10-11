@@ -11,14 +11,17 @@
             "id": "f2b8b589ecf4a259",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Tests/Functional/Test Cytoscape.js.md",
-                "mode": "source",
-                "source": false
+                "file": "Tests/TestCanvas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Test Cytoscape.js"
+              "icon": "lucide-layout-dashboard",
+              "title": "TestCanvas"
             }
           }
         ]
@@ -180,14 +183,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2b8b589ecf4a259",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "Tests/Functional/Test Cytoscape.js.md",
+    "Tests/TestCanvas.canvas",
     "Tests/Extra Promising/Test Mermaid GitGraph.md",
     "Tests/Test Fully Custom HTML Timeline.md",
     "Tests/Extra Promising/Test Mermaid Gantt.md",
     "Tests/Functional/Test Vis-Timeline.md",
     "Tests/Functional/Test Markwhen.md",
-    "Tests/Functional/Test Cytoscape.js.md",
     "Tests/Terrible/Test SVG Note.md",
     "Tests/Functional/Test Mermaid Subgraph.md",
     "Tests/Functional/Test Mermaid Graph.md",

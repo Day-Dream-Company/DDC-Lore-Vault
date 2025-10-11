@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"6d8ddc99e0ecf855","x":-320,"y":-160,"width":590,"height":360,"color":"2","type":"group","label":"Test Group"},
+		{"id":"3d0262e10425fad4","x":-300,"y":-140,"width":250,"height":60,"type":"text","text":"[Test Link]()"},
+		{"id":"67e2950d0aa0bc6a","x":-50,"y":120,"width":250,"height":60,"color":"5","type":"text","text":""},
+		{"id":"4eedb4a348971505","x":0,"y":-110,"width":250,"height":60,"color":"4","type":"text","text":"Test Wikilink ([[Aura]])"}
+	],
+	"edges":[
+		{"id":"0586cf85ee901aca","fromNode":"3d0262e10425fad4","fromSide":"bottom","toNode":"67e2950d0aa0bc6a","toSide":"top","color":"6"},
+		{"id":"0b687d4826cdbfdf","fromNode":"4eedb4a348971505","fromSide":"bottom","toNode":"67e2950d0aa0bc6a","toSide":"top"}
+	]
+}
