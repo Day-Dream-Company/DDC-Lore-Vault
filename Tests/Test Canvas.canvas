@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"bbc25e183f8c16e2","x":-320,"y":-180,"width":510,"height":340,"color":"1","type":"group","label":"Test Group"},
+		{"id":"9ccf4d1e6dd3c018","x":-80,"y":80,"width":250,"height":60,"color":"5","type":"text","text":"Test Wikilink [[Aura]]"},
+		{"id":"b050b41e8816bb42","x":-300,"y":-160,"width":250,"height":60,"color":"3","type":"text","text":"[Test Link](https://google.com)"}
+	],
+	"edges":[
+		{"id":"5e35bc4d0cabc47b","fromNode":"b050b41e8816bb42","fromSide":"bottom","toNode":"9ccf4d1e6dd3c018","toSide":"top","color":"4"}
+	]
+}
