@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Canvas Viewer</title>
+  <style>
+    html, body { margin: 0; height: 100%; }
+    #canvas-viewer { width: 100%; height: 100%; }
+  </style>
+</head>
+<body>
+  <div id="canvas-viewer"></div>
+
+  <script type="module">
+    import { JSONCanvasViewer } from 'es/index.js'; 
+    // adjust filename if different in /es build
+
+    const viewer = new JSONCanvasViewer("#canvas-viewer", {
+      readOnly: true,
+      zoom: { min: 0.1, max: 4, initial: 1 },
+      pan: { enabled: true },
+      respectNodeStyles: true,
+      respectEdgeStyles: true,
+      showGroups: true,
+      smoothSplines: true,
+    });
+
+    fetch("TestCanvas.canvas")
+      .then(res => res.json())
+      .then(data => viewer.load(data))
+      .catch(err => console.error(err));
+  </script>
+</body>
+</html>
