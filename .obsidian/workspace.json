@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tests/Canvas Viewer Embed.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Canvas Viewer Embed"
+              "title": "index"
             }
           }
         ]
@@ -183,8 +183,8 @@
   },
   "active": "f2b8b589ecf4a259",
   "lastOpenFiles": [
-    "Tests/Default.canvas",
     "Tests/Canvas Viewer Embed.md",
+    "Tests/Default.canvas",
     "index.md",
     "Tests/Default - Copy.canvas",
     "Tests/Beliefs.canvas",

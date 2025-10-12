@@ -9,4 +9,4 @@ This is the DDC lore vault/canon compendium.
 - [[Magic System]]
 - [[Characters]]
 # Canvas Test
-- [[TestCanvas.canvas|Test Canvas]]
+- [[Canvas Viewer Embed]]
