@@ -11,17 +11,14 @@
             "id": "f2b8b589ecf4a259",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Tests/Test Canvas.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Tests/Canvas Viewer Embed.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Test Canvas"
+              "icon": "lucide-file",
+              "title": "Canvas Viewer Embed"
             }
           }
         ]
@@ -186,8 +183,12 @@
   },
   "active": "f2b8b589ecf4a259",
   "lastOpenFiles": [
+    "Tests/Default.canvas",
+    "Tests/Canvas Viewer Embed.md",
+    "index.md",
+    "Tests/Default - Copy.canvas",
+    "Tests/Beliefs.canvas",
     "Tests/Test Canvas.html",
-    "Tests/Test Canvas.canvas",
     "Tests/Extra Promising/Test Mermaid Gantt.md",
     "Tests/Functional/Test Cytoscape.js.md",
     "Tests/Test Canvas Viewer.md",
@@ -210,7 +211,6 @@
     "Tests/example/preview.png",
     "Tests/example/katex.min.css",
     "Tests/example/index.html",
-    "Tests/example",
     "Tests/jsoncanvas/TestCanvas.canvas",
     "Tests/jsoncanvas/Test Canvas Viewer.md",
     "Tests/TestCanvas.canvas",
@@ -234,8 +234,6 @@
     "Tests/Drawing 2025-10-07 23.00.57.excalidraw.md",
     "Tests/Drawing 2025-10-07 22.58.07.excalidraw.md",
     "Excalidraw/Drawing 2025-10-07 22.58.36.excalidraw.md",
-    "index.md",
-    "Characters/Characters.md",
-    "Characters/Aster Kenos.md"
+    "Characters/Characters.md"
   ]
 }

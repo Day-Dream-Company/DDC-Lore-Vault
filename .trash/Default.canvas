@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"28d0d6a68a892da5","type":"group","x":-240,"y":-180,"width":320,"height":220,"color":"#e4db72","label":"Oops!"},
+		{"id":"35770a35d6e71f9f","type":"text","text":"Something went wrong.","x":-220,"y":-160,"width":280,"height":60,"color":"#db5757"},
+		{"id":"3427ff61e77d2d1d","type":"text","text":"If you are seeing this, then our Canvas Viewer was passed an invalid file path.","x":-220,"y":-80,"width":280,"height":100,"color":"#df8f34"}
+	],
+	"edges":[
+		{"id":"9ce4f74b431bacb5","fromNode":"35770a35d6e71f9f","fromSide":"bottom","toNode":"3427ff61e77d2d1d","toSide":"top"}
+	]
+}
