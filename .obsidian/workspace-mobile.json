@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Tests/Canvas Viewer Embed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Canvas Viewer Embed"
             }
           }
         ],
@@ -210,8 +210,8 @@
   },
   "active": "b395f57ef3a00247",
   "lastOpenFiles": [
-    "Tests/Canvas Viewer Embed.md",
     "index.md",
+    "Tests/Canvas Viewer Embed.md",
     "assets/DDC_Vault_Timeline.drawio.svg",
     "assets",
     "Excalidraw/Drawing 2025-10-07 22.58.36.excalidraw.md",
