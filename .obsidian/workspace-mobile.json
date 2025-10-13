@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Mermaid Subgraph.md",
-                "mode": "preview",
+                "file": "index.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test Mermaid Subgraph"
+              "title": "index"
             }
           }
         ],
@@ -210,10 +210,26 @@
   },
   "active": "b395f57ef3a00247",
   "lastOpenFiles": [
-    "Test Mermaid Graph.md",
-    "Test Mermaid Subgraph.md",
-    "Test Mermaid Gantt.md",
+    "Tests/Canvas Viewer Embed.md",
     "index.md",
+    "assets/DDC_Vault_Timeline.drawio.svg",
+    "assets",
+    "Excalidraw/Drawing 2025-10-07 22.58.36.excalidraw.md",
+    "Excalidraw",
+    "Tests/Functional/Test Vis-Timeline.md",
+    "Tests/Functional/Test Markwhen.md",
+    "Tests/Functional/Test Cytoscape.js.md",
+    "Tests/Functional/Test Mermaid Graph.md",
+    "Tests/Functional/Test Mermaid Subgraph.md",
+    "Tests/Extra Promising/Test Mermaid GitGraph.md",
+    "Tests/Extra Promising/Test Mermaid Gantt.md",
+    "Tests/Test Canvas.html",
+    "Tests/Functional",
+    "Tests/Extra Promising",
+    "Tests",
+    "Test Mermaid Subgraph.md",
+    "Test Mermaid Graph.md",
+    "Test Mermaid Gantt.md",
     "Test Canvas.canvas",
     "/index.md",
     "/Test Canvas.canvas",
