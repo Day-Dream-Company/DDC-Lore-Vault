@@ -41,30 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Mermaid Gantt.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Test Mermaid Gantt"
-            }
-          },
-          {
-            "id": "b395f57ef3a00247",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tests/Canvas Viewer Embed.md",
+                "file": "Events/Pre-History/The Age of Primordials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Canvas Viewer Embed"
+              "title": "The Age of Primordials"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,14 +194,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b395f57ef3a00247",
+  "active": "ae5c048014369c48",
   "lastOpenFiles": [
-    "index.md",
+    "Events/Pre-History/Creation of the Star System.md",
+    "Events/Pre-History/The Age of Primordials.md",
+    "Events/Full-Timeline.canvas",
+    "Characters/Characters.md",
     "Tests/Canvas Viewer Embed.md",
+    "Events/Full Timeline.md",
+    "Events/Pre-History",
+    "Events",
+    "/Events/Pre-History/Creation of the Star System.md",
+    "/Events/Full-Timeline.canvas",
+    "/Events/Full Timeline.md",
+    "/Events/Pre-History",
+    "/Events",
+    "/assets",
+    "/Tests/Functional",
+    "/Tests/Extra Promising",
+    "/Tests",
+    "/Excalidraw",
+    "index.md",
     "assets/DDC_Vault_Timeline.drawio.svg",
     "assets",
     "Excalidraw/Drawing 2025-10-07 22.58.36.excalidraw.md",
-    "Excalidraw",
     "Tests/Functional/Test Vis-Timeline.md",
     "Tests/Functional/Test Markwhen.md",
     "Tests/Functional/Test Cytoscape.js.md",
@@ -223,10 +225,6 @@
     "Tests/Functional/Test Mermaid Subgraph.md",
     "Tests/Extra Promising/Test Mermaid GitGraph.md",
     "Tests/Extra Promising/Test Mermaid Gantt.md",
-    "Tests/Test Canvas.html",
-    "Tests/Functional",
-    "Tests/Extra Promising",
-    "Tests",
     "Test Mermaid Subgraph.md",
     "Test Mermaid Graph.md",
     "Test Mermaid Gantt.md",
@@ -235,7 +233,6 @@
     "/Test Canvas.canvas",
     "Magic System (WIP).md",
     "category-folder/index.md",
-    "category-folder/Some note.md",
-    "category-folder"
+    "category-folder/Some note.md"
   ]
 }
