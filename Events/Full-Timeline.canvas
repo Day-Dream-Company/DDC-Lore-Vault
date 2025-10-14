@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"4ab4915ad47e4a19","x":-120,"y":-80,"width":250,"height":60,"type":"text","text":"The beginning"}
+		{"id":"4ab4915ad47e4a19","type":"text","text":"[[Creation of the Star System]]","x":-120,"y":-80,"width":250,"height":60}
 	],
 	"edges":[]
 }
