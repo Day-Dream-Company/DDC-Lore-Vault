@@ -11,17 +11,14 @@
             "id": "f2b8b589ecf4a259",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Events/Full-Timeline.canvas",
-                "viewState": {
-                  "x": 5,
-                  "y": -50,
-                  "zoom": 0
-                }
+                "file": "Events/Full Timeline.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Full-Timeline"
+              "icon": "lucide-file",
+              "title": "Full Timeline"
             }
           }
         ]
@@ -186,9 +183,9 @@
   },
   "active": "f2b8b589ecf4a259",
   "lastOpenFiles": [
+    "Events/Full-Timeline.canvas",
     "Events/Pre-History/Creation of the Star System.md",
     "Events/Pre-History",
-    "Events/Full-Timeline.canvas",
     "Writing",
     "Events/Full Timeline.md",
     "Tests/Canvas Viewer Embed.md",
