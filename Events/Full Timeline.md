@@ -1,5 +1,3 @@
-# Test Title
-Test text
 <iframe
   src="/static/export-obsidian-canvas/canvas/Full-Timeline-Container.html"
   width="100%"
