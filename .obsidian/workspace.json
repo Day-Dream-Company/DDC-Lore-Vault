@@ -11,17 +11,14 @@
             "id": "f2b8b589ecf4a259",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Events/Full_Timeline.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Events/Full Timeline.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Full_Timeline"
+              "icon": "lucide-file",
+              "title": "Full Timeline"
             }
           }
         ]
@@ -186,8 +183,8 @@
   },
   "active": "f2b8b589ecf4a259",
   "lastOpenFiles": [
-    "Events/Full Timeline.md",
     "Events/Full_Timeline.canvas",
+    "Events/Full Timeline.md",
     "Tests/Canvas Viewer Embed.md",
     "index.md",
     "Events",
