@@ -181,9 +181,10 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "f2b8b589ecf4a259",
+  "active": "7292aedfd65d4567",
   "lastOpenFiles": [
     "Events/Full-Timeline-Container.html",
+    "Events/Full-Timeline-ontainer.html",
     "Events/Full-Timeline-container.html",
     "Events/Full-Timeline.canvas",
     "Events/Full-Timeline.html",
@@ -210,7 +211,6 @@
     "Tests/Default.canvas",
     "Tests/Default - Copy.canvas",
     "Tests/Beliefs.canvas",
-    "Tests/Test Canvas.html",
     "Tests/Test Canvas Viewer.md",
     "Tests/jsoncanvas/example/Example Canvas/الانتقال من Windows إلى macOS.md",
     "Tests/jsoncanvas/example/Example Canvas/Switching from Windows to macOS.md",
