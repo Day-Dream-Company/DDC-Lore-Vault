@@ -6,19 +6,47 @@
       {
         "id": "0571c1c94d829fac",
         "type": "tabs",
+        "dimension": 75.15991471215352,
         "children": [
           {
             "id": "f2b8b589ecf4a259",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Events/Full Timeline.md",
-                "mode": "source",
-                "source": false
+                "file": "Events/Full-Timeline.canvas",
+                "viewState": {
+                  "x": 36.776520352251794,
+                  "y": -1735.926894863012,
+                  "zoom": -1.6666666666666665
+                }
               },
-              "icon": "lucide-file",
-              "title": "Full Timeline"
+              "icon": "lucide-layout-dashboard",
+              "title": "Full-Timeline"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e4eac0529a023c32",
+        "type": "tabs",
+        "dimension": 24.84008528784648,
+        "children": [
+          {
+            "id": "a73bcc6e673c7be5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Events/Full-Timeline.canvas",
+                "viewState": {
+                  "x": -799.7766761918231,
+                  "y": -446.98172418996285,
+                  "zoom": -0.11892117016322457
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Full-Timeline"
             }
           }
         ]
@@ -78,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -183,8 +212,8 @@
   },
   "active": "f2b8b589ecf4a259",
   "lastOpenFiles": [
-    "Events/Full-Timeline.canvas",
     "Events/Full Timeline.md",
+    "Events/Full-Timeline.canvas",
     "Events/Timeline (Canvas).canvas",
     "Events/Pre-History/The Age of Primordials.md",
     "Events/Pre-History/Creation of the Star System.md",
