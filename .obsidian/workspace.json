@@ -11,17 +11,14 @@
             "id": "f2b8b589ecf4a259",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Events/Full-Timeline.canvas",
-                "viewState": {
-                  "x": 343.20482039518777,
-                  "y": 96.1454067533889,
-                  "zoom": -1.9999999999999998
-                }
+                "file": "Events/Full Timeline.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Full-Timeline"
+              "icon": "lucide-file",
+              "title": "Full Timeline"
             }
           }
         ]
@@ -186,8 +183,8 @@
   },
   "active": "f2b8b589ecf4a259",
   "lastOpenFiles": [
-    "Events/Full Timeline.md",
     "Events/Full-Timeline.canvas",
+    "Events/Full Timeline.md",
     "Events/Timeline (Canvas).canvas",
     "Events/Pre-History/The Age of Primordials.md",
     "Events/Pre-History/Creation of the Star System.md",
