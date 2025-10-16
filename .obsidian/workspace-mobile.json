@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keywords/Magic/Magic.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic"
+              "title": "index"
             }
           }
         ],
@@ -196,6 +196,8 @@
   },
   "active": "ae5c048014369c48",
   "lastOpenFiles": [
+    "Keywords/Magic/Magic System.md",
+    "Keywords/Magic/Magic.md",
     "Characters/Aeolus/Wake Up Crew/Tane Altes.md",
     "Locations/Geography/That Floating Mountain.md",
     "Objects/Magic Artifacts/Rena's Amulet.md",
@@ -204,8 +206,6 @@
     "Keywords/Magic/Aura Reserve.md",
     "Keywords/Mana Reserve.md",
     "Keywords/Magic/Dynamic.md",
-    "Keywords/Magic/Magic System.md",
-    "Keywords/Magic/Magic.md",
     "First Primordial.md",
     "Random Ideas/Name Ideas.md",
     "Keywords/Magic/Aura.md",
