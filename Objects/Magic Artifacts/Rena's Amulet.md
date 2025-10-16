@@ -1,0 +1,3 @@
+I like the idea that this used to belong to Iay’s sister, and it came into Avons Poseidon burring the event that killed the group. Avon is seriously injured, she gives him the amulet and maybe a man’s reserve to keep him going, and it is able to keep him alive with a stab wound or something until he can escape and find help.
+
+It would make sense for her to have it because she is the most skilled mage in the group and a seasoned adventurer. She has the mana reserves to really make use of it, and it allows her to sort of tank at the same time as she focuses on supporting others. Her aura might even be useful to shield others via the amulet alone, like maybe in the scene with the dragon fire.

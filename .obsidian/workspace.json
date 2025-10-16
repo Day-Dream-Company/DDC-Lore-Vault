@@ -6,47 +6,19 @@
       {
         "id": "0571c1c94d829fac",
         "type": "tabs",
-        "dimension": 75.15991471215352,
         "children": [
           {
             "id": "f2b8b589ecf4a259",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Events/Full-Timeline.canvas",
-                "viewState": {
-                  "x": 36.776520352251794,
-                  "y": -1735.926894863012,
-                  "zoom": -1.6666666666666665
-                }
+                "file": "Events/Pre-History/The Age of Primordials.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Full-Timeline"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e4eac0529a023c32",
-        "type": "tabs",
-        "dimension": 24.84008528784648,
-        "children": [
-          {
-            "id": "a73bcc6e673c7be5",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Events/Full-Timeline.canvas",
-                "viewState": {
-                  "x": -799.7766761918231,
-                  "y": -446.98172418996285,
-                  "zoom": -0.11892117016322457
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Full-Timeline"
+              "icon": "lucide-file",
+              "title": "The Age of Primordials"
             }
           }
         ]
@@ -106,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -212,56 +183,57 @@
   },
   "active": "f2b8b589ecf4a259",
   "lastOpenFiles": [
-    "Events/Full Timeline.md",
+    "Great Spirits/Spirit of death.md",
+    "Great Spirits/Spirit Aspects List.md",
+    "Great Spirits",
+    "Culture/DDCMTGTCG/Deck Lists/WUC Testing.md",
+    "Culture/DDCMTGTCG/Deck Lists/For Daz.md",
+    "Culture/DDCMTGTCG/Deck Lists",
+    "Culture/DDCMTGTCG/Cards/Tool/Three Section Staff (card).md",
+    "Culture/DDCMTGTCG/Cards/Tool/Tane’s Glasses (card).md",
+    "Culture/DDCMTGTCG/Cards/Tool/Summoning + Alchemy Gem.md",
+    "Culture/DDCMTGTCG/Cards/Tool/Sebastian's Claymore.md",
+    "Culture/DDCMTGTCG/Cards/Tool/Tane's Mirror (card).md",
+    "Culture/DDCMTGTCG/Cards/Tool/Lightning Tomahawk (card).md",
+    "Culture/DDCMTGTCG/Cards/Tool/Lava Spear (card).md",
+    "Culture/DDCMTGTCG/Cards/Tool/Hydra Bow (card).md",
+    "Culture/DDCMTGTCG/Cards/Tool/Crystal Sword (card).md",
+    "Culture/DDCMTGTCG/Cards/Tool/Avon's Amulet (card).md",
+    "Culture/DDCMTGTCG/Cards/Tool",
+    "Culture/DDCMTGTCG/Cards/Skill/You'll Have To Go Through Me.md",
+    "Culture/DDCMTGTCG/Cards/Skill/Tactical Reposition.md",
+    "Culture/DDCMTGTCG/Cards/Skill/Summon Weapon.md",
+    "Culture/DDCMTGTCG/Cards/Skill/On-The-Job Training.md",
+    "Culture/DDCMTGTCG/Cards/Skill/Move With The World.md",
+    "Culture/DDCMTGTCG/Cards/Skill/Manifest Dread.md",
+    "Culture/DDCMTGTCG/Cards/Skill/Longshot.md",
+    "Culture/DDCMTGTCG/Cards/Skill/Lead From The Front.md",
+    "Culture/DDCMTGTCG/Cards/Skill/Instant Transmission.md",
+    "Culture/DDCMTGTCG/Cards/Skill/Inertia Trap.md",
+    "Culture/DDCMTGTCG/Cards/Skill/Flash-Step.md",
+    "Culture/DDCMTGTCG/Cards/Skill/Annihilate.md",
+    "Culture/DDCMTGTCG/Cards/Skill",
+    "Culture/DDCMTGTCG/Cards/Location",
+    "Culture/DDCMTGTCG/Cards/Hero",
+    "Culture/DDCMTGTCG/Cards",
+    "Culture/DDCMTGTCG",
+    "Culture",
+    "Team-ups and fighting moves",
     "Events/Full-Timeline.canvas",
     "Events/Timeline (Canvas).canvas",
-    "Events/Pre-History/The Age of Primordials.md",
-    "Events/Pre-History/Creation of the Star System.md",
-    "Events/Pre-History",
-    "Writing",
-    "Tests/Canvas Viewer Embed.md",
-    "Events/Full-Timeline-Container.html",
-    "Events/Full-Timeline-ontainer.html",
-    "Events/Full-Timeline-container.html",
-    "Events/Full-Timeline.html",
-    "Events/Full-Timeline.txt",
-    "Events/New Text Document.txt",
-    "index.md",
     "Events/Full_Timeline.canvas",
-    "Events",
     "assets/DDC_Vault_Timeline.drawio.svg",
-    "assets",
-    "Tests/Functional/Test Mermaid Subgraph.md",
-    "Tests/Functional/Test Vis-Timeline.md",
-    "Tests/Functional/Test Mermaid Graph.md",
-    "Tests/Functional/Test Markwhen.md",
-    "Tests/Functional/Test Cytoscape.js.md",
-    "Tests/Extra Promising/Test Mermaid GitGraph.md",
-    "Tests/Extra Promising/Test Mermaid Gantt.md",
-    "Excalidraw/Drawing 2025-10-07 22.58.36.excalidraw.md",
     "Tests/Default.canvas",
     "Tests/Default - Copy.canvas",
     "Tests/Beliefs.canvas",
-    "Tests/Test Canvas Viewer.md",
-    "Tests/jsoncanvas/example/Example Canvas/الانتقال من Windows إلى macOS.md",
-    "Tests/jsoncanvas/example/Example Canvas/Switching from Windows to macOS.md",
     "Tests/jsoncanvas/example/Example Canvas/introduction.canvas",
     "Tests/jsoncanvas/example/Example Canvas/Initial Creator.png",
     "Tests/jsoncanvas/example/preview.png",
-    "Tests/example/Example Canvas/الانتقال من Windows إلى macOS.md",
-    "Tests/example/Example Canvas/Switching from Windows to macOS.md",
     "Tests/example/Example Canvas/introduction.canvas",
     "Tests/example/Example Canvas/Initial Creator.png",
     "Tests/example/preview.png",
     "Tests/jsoncanvas/TestCanvas.canvas",
-    "Tests/jsoncanvas/Test Canvas Viewer.md",
     "Tests/TestCanvas.canvas",
-    "Tests/Test Fully Custom HTML Timeline.md",
-    "Tests/Terrible/Test SVG Note.md",
-    "Tests/Terrible/Test GitGraph.md",
-    "Tests/Terrible/Test Chronos Timeline.md",
-    "Tests/Test Canvas Viewer/README.md",
-    "Tests/Test Canvas Viewer/data/switching-from-windows-to-macos-as-a-developer.md",
     "Tests/Test Canvas Viewer/data/simplebackups-synology-storage.png",
     "Tests/Test Assets/DDC_Vault_Timeline.drawio.svg"
   ]

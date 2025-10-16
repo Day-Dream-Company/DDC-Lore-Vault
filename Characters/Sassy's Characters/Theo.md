@@ -1,0 +1,1 @@
+[[Akela Kalani]]'s love interest (I think?). Breifly in an arranged marriage with [[Faline]].

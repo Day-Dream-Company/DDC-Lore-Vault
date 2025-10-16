@@ -1,0 +1,2 @@
+[Docs link](https://docs.google.com/document/d/11eCsgaogXdguiFmJV9t5qzC4w6LEw2WGgnWdlIZomsM/edit?tab=t.0):
+This contains a section where [[Valen Elicron]] and [[Kuno]] talk (post [[Kuno’s Death]]), and a section where they fight [[Daz]] and [[Jawaku]]. The fight is not cannon because it was written back when [[WUC]] and DDC were seperated by a lot more time. Since then they have been moved to run more in parallel.

@@ -1,0 +1,1 @@
+A team-up move between [[Aster Kenos]] and [[Tobi]], that can only be used once because it will kill [[Aster Kenos]].

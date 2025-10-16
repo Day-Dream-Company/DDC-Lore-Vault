@@ -1,0 +1,1 @@
+An enemy (sorta?) of [[Tobi's Mom]]. His domain is the ground.

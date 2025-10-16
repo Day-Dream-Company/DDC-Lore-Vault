@@ -1,0 +1,1 @@
+[This video](https://www.youtube.com/watch?v=HoSEvq1hS3M) inspired me to invent a sword where the hit is actually two parts, where the top hand is an outer cylinder that rotates and has the cross guards on it, so that you can rotate your guard to protect your hands but keep your blade aligned for an attack.

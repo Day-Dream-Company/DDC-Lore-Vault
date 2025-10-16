@@ -1,0 +1,1 @@
+A currency in [[Aeolia]] that forms the backbone of their semi-socialist economy.

@@ -1,0 +1,2 @@
+[Docs link](https://docs.google.com/document/d/11c_-ipp0R8NdtxBYlXLb7vk_HdGjp3WD-aTdI6spwZY/edit?tab=t.0)
+[[Akela Kalani]] and [[Some Bigot]] fight. [[Akela Kalani]] takes his evil amulet from him and cleanses his corruption, but that will probbaly just kill him because he has so little soul left.

@@ -1,0 +1,1 @@
+An actual human. They are considered [[Humanoid]]s, but not all [[Humanoid]]s are technically [[Human]].

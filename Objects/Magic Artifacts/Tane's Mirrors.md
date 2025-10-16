@@ -1,0 +1,3 @@
+These are a permanently enchanted set of mirrors that firm a portal between them. Looking into one is like looking out of the other, and with some extra power they can allow physical objects to pass through as well.
+
+i think this is another example where [[Tane's Sister]] was involved it it’s creation. If not her, then [[Kuno]] maybe. Someone with [[Augmentation]] magic would seem like they were involved.

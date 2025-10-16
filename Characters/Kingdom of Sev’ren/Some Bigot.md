@@ -1,0 +1,1 @@
+A man from [[Sev’reon Magic School]] who fights [[Akela Kalani]] in [[Magus Match]].

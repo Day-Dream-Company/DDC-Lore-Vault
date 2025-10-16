@@ -1,0 +1,1 @@
+There exist a type of spirit that can sort of "latch onto" concepts that are expressed by humanity, and if the concept is expressed strongly enough they can "emerge," often with catastrophic results, and become a new entity in the pantheon of beings humanity might "worship."

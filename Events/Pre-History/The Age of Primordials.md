@@ -1,3 +1,6 @@
+[Google Doc Link:](https://docs.google.com/document/d/1Z3mJxzuGvYi6UzoX0-R5dFeAWyCL8xOjxZot6pYCOuY/edit?usp=sharing)
+[Video Link](https://drive.google.com/file/d/10-_c4iuy1yjkXxbA54vMOS20ZjSBZimf/view?usp=drive_link)
+# The Age of Primordials
 Long before the beginning, 3 radiant beings danced in the astral ocean. Nameless, and without thought, they reverberated their incessant roar into the void, for eons. As they swam in the neon lake of X-ray filaments, they drank the waves and discovered hunger. The waters that held them knew nothing of hunger or thirst, and instead would learn fear. The tide itself would pour the depths into the maws of the three great spirits, and what remained of the ocean would attempt to flee.
 
 Invisible unknowable forces pulled each and every drop toward oblivion, tethering what remained of the ocean to the Three Great Spirits. The waves circled the Great Spirits in an endless Sisyphean vortex, always just out of reach, thinking to outlast rather than escape. From fear comes an inkling of hope. A vague idea of the shape of a future one might never see.

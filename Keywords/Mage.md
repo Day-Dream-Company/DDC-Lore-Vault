@@ -1,0 +1,1 @@
+This is the term for any [[Humanoid]] who possesses the ability to generate/channel [[Aura]] and to create magical effects using it.

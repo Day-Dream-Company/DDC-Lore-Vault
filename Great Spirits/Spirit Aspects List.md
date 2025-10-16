@@ -1,0 +1,11 @@
+- Discipline
+- Death
+- Harmony
+- Strength
+- Wrath
+- Expression
+- Instinct
+- Determination
+- Knowledge
+- Hope
+- Fear
