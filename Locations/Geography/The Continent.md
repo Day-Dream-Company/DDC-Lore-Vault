@@ -1,0 +1,1 @@
+This is the main continent where both [[Aeolia]] and [[Sev’ren]] reside.
