@@ -1,5 +1,4 @@
 A complete, comprehensive, and non-convoluted guide to the DDC magic system.
-
 # What *Is* Magic?
 The use of one's [[Aura]] to perform a spell | or magical effect.
 (Can be affected by the caster's ability to concentrate)

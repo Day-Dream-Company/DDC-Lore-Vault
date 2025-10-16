@@ -1,1 +1,0 @@
-A crystal meant to store aura inside for use later

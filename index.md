@@ -6,5 +6,3 @@ This is the DDC lore vault/canon compendium.
 # Main Topics
 - [[Magic System]]
 - [[Character List]]
-# Canvas Test
-- [[Canvas Viewer Embed]]
