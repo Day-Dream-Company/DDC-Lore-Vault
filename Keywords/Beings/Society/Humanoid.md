@@ -1,0 +1,1 @@
+This term collectively describes all "people" who are members of normal socioeties. It includes [[Human]]s, [[Elves]], as well as lots of other fantasy races and species. They are all similar in terms of their adaptation to magic, and this is the primary thing that sets them apart from other beings like animals or [[Great Wyrm]]s/[[Great Spirit]]s.

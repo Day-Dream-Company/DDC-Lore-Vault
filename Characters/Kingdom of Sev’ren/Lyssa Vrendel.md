@@ -1,0 +1,2 @@
+# Name
+The name Lyssa Vrendel is taken from the real world theoretical physicist [Lisa Randall](https://en.wikipedia.org/wiki/Lisa_Randall). I like this name, but it should be treated as temporary because it might be *too* similar to a real person.

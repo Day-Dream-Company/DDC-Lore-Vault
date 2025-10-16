@@ -1,0 +1,1 @@
+She was in an arranged marriage with [[Theo]] for a little bit, prior to [[Theo]] joining [[Akela Kalani]] in his adventures.

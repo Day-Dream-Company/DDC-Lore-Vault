@@ -1,0 +1,1 @@
+This person is a long lived Druid of some kind who believes that some sort of imbalance of magic has grown from the way that humans interact with magic. They seek to end what they perceive as an ongoing and progressing disruption, and they seek power so that they can put a stop to it.

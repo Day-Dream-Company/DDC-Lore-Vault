@@ -1,0 +1,7 @@
+This great spirit is the giant black hole in the sky at the center of their solar system.
+# Death In DDC
+When people die, their [[Soul]] leaves their body and is drawn into the black hole. Types of magic like [[resurrection]] are capable of manipulating the [[Soul]] and potentially preventing it from crossing the event horizon and bring lost to the [[Nether]] forever.
+# The First Great Spirit
+I imagine a myth of 3 orbiting stars, each representing 3 aspects of life, and a story of how the black hole formed. The black hole is the largest, the second one becomes jealous and tries to enlarge itself (not new mass, but expanding in size and reducing in temperature), the second star gets pulled into a ring around the first (wolf rayat style), and the 3rd who wants them to stop fighting gets flung out into the distance. The first star consumes the second, and collapses in on itself becoming the black hole, becoming the first great spirit. (In reality, the black hole may just be a gateway that another spirit was able to enter through).
+
+A star collapsing into a black hole will usually go super nova, and time inside a black hole runs slowly, so the actual flash of light exploding could theoretically last a very long time on the outside. The color of the light would redshift and would also dim over time, due to the increasing division of energy over larger and larger time for an outside observer.

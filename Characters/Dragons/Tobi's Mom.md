@@ -1,0 +1,1 @@
+An ancient [[Great Wyrm]]. A dragon who is so old and so powerful that they are sort of eldritch transcendental being.

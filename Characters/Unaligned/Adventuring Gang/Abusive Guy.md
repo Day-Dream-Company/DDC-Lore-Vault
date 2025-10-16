@@ -1,0 +1,1 @@
+This is the leader of an [[Adventuring Gang]] that [[Kuno]] was once part of. He betrays her and leads to her being [[Soul Locked]].

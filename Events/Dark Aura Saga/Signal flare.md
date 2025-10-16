@@ -1,0 +1,26 @@
+- [[Aeolus]] receives a signal from the tower network about an emergency
+- [[Rena]] responds and goes to the signal room, finds [[Tane Altes]] already there.
+- Brief discussion, then [[Tane Altes]] initiates a mirror comunixation between the capital and the source tower.
+- Information unknown, [[Tane Altes]] and [[Rena]] decided to respond instantly and teleport through the portal to the closest beacon city.
+- They travel to the location of the disaster, find stuff, and eventually capture a dark aura sample.
+	- [[Tane Altes]] contains the area in a manifestation box to keep it from escaping
+	- [[Tane Altes]] and [[Rena]] both contact the aura, but it doesn’t affect [[Rena]] nearly as much. It feels like aura burn.
+	- [[Rena]] doesn’t know why it feel familiar, and this either behind his nightmares or maybe gives them some context.
+		- I don’t hate the idea that [[Rena]] has a nightmare the night of the event, because he has some kind of connection with [[Valen Elicron]] from spending so much time with him in the past.
+		- I also like the idea that he keeps a reserve of mana that [[Valen Elicron]] gave him a long time ago. Maybe the aura in the reserve reacts in some way.
+	- They eventually recover the sample that [[Tane Altes]] later shows [[Aster Kenos]].
+	- They also find planted evidence that points to [[Sev’ren]].
+	- The event is a destructive false flag.
+		- People were abducted from a tiny village (like *all* of them), then the scene was staged as if some sort of massive magic weapon has been used.
+		- I’m imagining like silhouettes of people etched onto walls and stuff. Not 100% sure how [[Weltzer]] accomplishes this.
+- They travel back to figure out what to do. Decide to go to [[Sev’reon]] to investigate,
+- The team preps to leave, and while they are getting their ship ready they meet [[Artis]].
+	- A steamworks accident occurs, and [[Artis]] demonstrates selfless heroism to save a coworker.
+	- [[Tane Altes]], with his glasses, has to shield his eyes from the strength of [[Artis]]’s aura. He has an exceptionally strong latent aura.
+	- [[Tane Altes]] advocates that [[Artis]] be trained to be part of the team (basically all magic users are convinced to join, since their rarity and effectiveness means they would be wasted doing anything else), and [[Rena]] agrees.
+	- [[Artis]] is surprised, but is convinced.
+	- [[Tane Altes]] advocates that he join them on this mission right away because the mission is relatively low danger. Ideally no one will even know they were in [[Sev’reon]], and having someone who is *genuinely* unknown by any national intelegence might be useful.
+	- [[Rena]] is skeptical, but agrees.
+- The group leaves via ship, and the story rolls into Avon’s sword part 1
+	- The ship should be steam powered but also have deployable sails.
+	- It should be nondescript while at sea, but able to move without big ass sails snd masts when they are approaching land in the event they are trying to be sneaky.

@@ -1,0 +1,3 @@
+Tobi wants a tournament arc with everyone involved, and she thinks she wants it to be on [[Tobi’s Bad Guy]]’s [[Underwater City]].
+
+One option for how this situation might come about would be if the tournament itself was an Olympics style event hosted by different countries, the relatively new nation was allowed to host it on a surfaced ocean platform thing, and in reality they trap everyone on the ship during the parade of nations and dive the ship down to the bottom of the ocean. Once they have everyone, they force them to fight in a death tournament.

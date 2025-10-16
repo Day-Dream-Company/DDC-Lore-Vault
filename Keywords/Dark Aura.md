@@ -1,0 +1,1 @@
+This is the special tainted corruptive type of aura possessed by [[Chernabog]].

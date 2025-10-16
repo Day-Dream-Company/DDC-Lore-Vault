@@ -1,0 +1,1 @@
+A [[Tower]] is the name of a city in [[Aeolia]], because all locations large enough to be considered a city have a massive solar farm water tower.

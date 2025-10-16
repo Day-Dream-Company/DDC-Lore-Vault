@@ -1,0 +1,3 @@
+[[Valen Elicron]] (as [[Weltzer]]) is waging a sort of terror war under duress from [[Weltzer’s Captor]]. Te nature of how he operates using powerful magic, combined with some intentional clues, causes [[Aeolia]] to think that [[Sev’ren]] is responsible. [[WUC]] is deployed on a covert espionage mission to obtain evidence that either proves or disproves the involvement of the magical nation.
+
+In order to gain the information they are looking for, [[Tane Altes]] convinces [[Aster Kenos]] to steal sensitive data for them ([[An Offer You Can't Refuse]]).
