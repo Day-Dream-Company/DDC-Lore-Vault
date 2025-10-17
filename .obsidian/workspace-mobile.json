@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Keywords/Magic/Magic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Magic"
             }
           }
         ],
@@ -196,8 +196,10 @@
   },
   "active": "ae5c048014369c48",
   "lastOpenFiles": [
-    "Keywords/Magic/Magic System.md",
+    "Keywords/Magic/Magical Branch.md",
     "Keywords/Magic/Magic.md",
+    "index.md",
+    "Keywords/Magic/Magic System.md",
     "Characters/Aeolus/Wake Up Crew/Tane Altes.md",
     "Locations/Geography/That Floating Mountain.md",
     "Objects/Magic Artifacts/Rena's Amulet.md",
@@ -220,8 +222,6 @@
     "Culture/DDCMTGTCG/Cards/Skill/You'll Have To Go Through Me.md",
     "Keywords/Keyword List.md",
     "Keywords/Magic/Types of Magic/Augmentation.md",
-    "Culture/DDCMTGTCG/DDC Version of MTG Concept.md",
-    "Keywords/Mage.md",
     "Unsorted",
     "Team-ups and fighting moves",
     "Objects/Magic Artifacts",
