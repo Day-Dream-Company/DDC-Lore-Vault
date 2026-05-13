@@ -1,0 +1,1 @@
+The [[Planar Dimension]] is a dimension of reality that, if traveled along, would bring you to alternate [[Plane]]s or Layers of existence. It is orthogonal to the 3 spatial [[Dimension]]s, as well as to Time.

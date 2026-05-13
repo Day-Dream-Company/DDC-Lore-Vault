@@ -6,3 +6,5 @@ He is a Male Trans "Hawaiian Pacific Islander."
 - Sorcerer, Divine Soul
 - Warlock, Great Old One
 - Wizard, Evocation
+# Links
+[3 Mannequins](https://docs.google.com/document/d/14lyquCmhXG8iim5A_lh8vKywr4paB5-qGOEgRq_TTMY/edit?tab=t.0)

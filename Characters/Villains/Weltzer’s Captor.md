@@ -7,3 +7,5 @@ I think that [[Weltzer]] will be controlled by [[Chernabog]], and part of Cherna
 "*I **am** that disease,* but this time I have a voice."
 
 ***"I will remove you from your suffering, and it will be a kindness to us both"***
+
+[(Link to notes about the Herald of Entropy)](https://discord.com/channels/1206338624334078062/1298703636087439451/1433506253069357137)

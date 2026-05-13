@@ -1,21 +1,16 @@
-# DDC-ified [[Vampire]]
-## Becoming A [[Vampire]]
-The mechanism that makes someone a [[Vampire]] is a modification of your [[Aura]], and it follows a similar logic as what happens to [[Dragon]]s, [[Great Spirit]]s, and all [[Spirit]]s in general. The nature of your [[Aura]] modifies your physical being over time, and in the case of [[Vampire]]s it is responsible for their parasitic cravings and for all of the other things unique to them.
-
-Your [[Aura]] is not inherited so being a [[Vampire]] is not technically hereditary, but parents who want to maintain their lineage can simply choose to make their children [[Vampire]]s basically instantly. This process is the same as it would be for making a [[Vampire Spawn]]. The only difference is how developed the person’s [[Aura]] and sense of self is at the time of their affliction. The [[Vampiric Aura]] integrates more seamlessly into very young children than it does for adults, and so the later you are turned the less vampiric you actually are in varying degrees.
-### Dangers of becoming a [[Vampire]]
-Part of [[Kaito]]’s story is that [[Kaito’s Father]] has been trying and failing to create a suitable child with all of his [[Vampire]] powers, but if it is as simple as afflicting someone from an early age then why would there be the conflict?
-
-One option is to use the same trope as [[Akela Kalani]] taking [[Tanele]]’s spirit: not everyone is compatible and it killed everyone before him. (I hesitate to do this more than once, but it would be oddly fitting to have [[Kaito]] and [[Akela Kalani]]’s story’s mirror each other so closely but still be such different characters.) This suggests that there is always some inherent risk in turning someone. I also think that the risk should go up the younger they are, and that maybe the risk is not that they die but that they simply never develop any human nature beyond the animalistic vampiric instinct.
-
-If the logic is that someone turned later in life does not develop as strong a power set, then maybe they also do not take on other things as strongly like the need to feed. And if that is the case, then a neborn baby would be such a blank slate that making them a [[Vampire]] would cause them to develop fully as a hungering monster without any humanity at all. They would be strong, but also utterly uncontrollable and would likely get themselves destroyed before they could grow up to actually have that power potential scale up with them.
-
-This would mean that there is a sort of “sweet spot” where you are young enough to take on the full nature of the affliction, but also old enough to understand what aspects of your humanity is being changed, which makes being tuned into a [[vampire]] a little inherently tragic, which means we are on the right track.
-# [[Vampire]] Houses
-Not all [[Vampire]]s have the same cravings, or even the same traits. There are blood drinking vampires ([[Kaito’s Father]] is the head of a blood drinking clan, for example), but there are fewer of them than the rest because the negative stigma and fear of [[Vampire]]s affected them more than others. [[Vampire]]s who feed on emotion, or memory, or raw aura, are not nearly as viscerally threatening and upsetting as the blood and flesh [[Vampire]]s.
-
-The blood [[Vampire]]s were hunted nearly to extinction, and in doing so they were forced to become equally ruthless and violent, which perpetuated the stigma and let to a feedback loop.
-# Aspect of Hunger
-Maybe [[Vampire]]s are actually an ancient type of thing very similar to what [[Tanele]] has been forced to do. Instead of choosing a single host to carry their spirit, what if a [[Great Spirit]] of some kind that identifies with hunger and instinct instead distributed themselves over many hosts?
-
-This could be good because some versions of [[Vampire]] lore suggest that making too many [[Vampire]]s sort of “dilutes” the strength of all [[Vampire]]s of that blood line, and so the lord only makes as many as they need to run their empire and no more. This could serve a similar function where the more vampire there are the more the spirit of hunger is distributed, but also that the more the people of the world strengthen the idea of primal hunger the more of it’s power there is to go around.
+# Rough Outline ([Ref](https://discord.com/channels/1206338624334078062/1206340886083149845/1387518311822000340))
+| Trait                      | Description                                                                                                                                                       |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Stength                    | 2500lbs/5000lbs after feeding                                                                                                                                     |
+| Speed                      | 100mph/150mph after feeding. Combat + Traversal                                                                                                                   |
+| Fangs + Claws              | Indestructible                                                                                                                                                    |
+| Hypnosis                   | Strong wills = more effort and possiblity of breaking control                                                                                                     |
+| Immortality                | Will burn in sunlight but can be revived. Only truly killed through beheading + burning to ash                                                                    |
+| Vision + Smell             | Blood + Night vision 100 yards, Blood scent 200 yards                                                                                                             |
+| Healing Factor             | Can regenerate destroyed or severed limbs except head. Weaker if not fed. Non magical weaponry can't damage your skeleton.                                        |
+| Shifting                   | May freely turn into a bat, swarm of bats, or mist.                                                                                                               |
+| Wall Scaling               | Can walk on or crawl on walls and ceilings                                                                                                                        |
+| Possible additional powers | Enhanced shapeshifting, Telekinesis, Telepathy, Blood manipulation, Necromancy, Enhanced hypnosis, Astral projection, Invisibility, Sunlight immunity, levitation |
+| Weaknesses                 | Sunlight sensitivity, Sunlight, Garlic Allergy, Obsessive compulsions                                                                                             |
+Different species or variants of vampire have one of the powers from the additional powers list.
+Dhampir's will have access to all those powers and weaknesses but at half strength and effectiveness.

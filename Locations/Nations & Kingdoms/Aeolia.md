@@ -28,7 +28,7 @@ Half of the old civilization did hardcore oppression, and so the other half did 
 
 Social punishment is severe, and so far the MAD has worked with 100% consistency. If it didn’t, then there would be no society, and yet here they are. (Dangerous self fulfilling logic lol)
 ## Magic Fallout
-Daz suggested to me that we give [[Aeolia]] an “anti-magic weapon technology, but I decided it wasn’t something a non-magic society would be able to accomplish and that idea was repurposed as the [[Thought Bomb]] concept for the [[Keywords/Magic/Dark Aura]]gic/Dark Aura]]. On reflection though, I think there is still room for an anti-magic bomb in [[Aeolia]]’s history.
+Daz suggested to me that we give [[Aeolia]] an “anti-magic weapon technology, but I decided it wasn’t something a non-magic society would be able to accomplish and that idea was repurposed as the [[Thought Bomb]] concept for the [[Dark Aura]]gic/Dark Aura]]. On reflection though, I think there is still room for an anti-magic bomb in [[Aeolia]]’s history.
 
 [[Aeolia]] may have once been a magical nation like the others, but it would have been corrupt. Magic would have caused strong enough societal problems that people were driven to violence, in similar ways that people are becoming radicalized against the rich in real life today (in December 2024). The result would have been an anti-magic bomb at the place with the most mages. It would have been a devastating nation destroying event, and in addition to the localized blast it would have left anti-magic fallout for hundreds of miles that prevents the land from creating aura.
 

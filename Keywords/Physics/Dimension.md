@@ -1,0 +1,1 @@
+A [[Dimension]] is one element of a coordinate that defines where (and when) a thing is. There are 3 spatial [[Dimension]]s, one for Time, and one [[Planar Dimension]] that connects the [[Plane]]s.

@@ -1,1 +1,1 @@
-[[Daz]], [[Thomas]], and [[David]] lose their memory due to some action taken by a member of [[Sev’ren]]'s royalty using the [[Keywords/Magic/Dark Aura]]gic/Dark Aura]].
+[[Daz]], [[Thomas]], and [[David]] lose their memory due to some action taken by a member of [[Sev’ren]]'s royalty using the [[Dark Aura]]gic/Dark Aura]].

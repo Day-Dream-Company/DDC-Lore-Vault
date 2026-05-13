@@ -1,0 +1,1 @@
+A general term for magic beings.

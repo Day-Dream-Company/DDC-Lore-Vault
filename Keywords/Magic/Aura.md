@@ -1,5 +1,0 @@
-[[Aura]] is the fundamental energy used to create [[Magic]]al effects. It is produced in relatively small quantities by all beings, and those beings shed excess [[Aura]] that they don’t use into their environment.
-
-The amount of [[Aura]] that a single being produces (with the possible exception of the most powerful [[Primordial]]s) is virtually never enough energy to generate any [[Magic]]al effects that would be appreciable to them. Instead, [[Mage]]s and other [[Magic]]ally inclined beings siphon and channel [[Aura]] from the environment through themselves in order to do [[Magic]] at a scale that would be useful to them.
-
-In addition to allowing [[Aura]] to collect and permeate throughout the environment, it can also be collected and stored for later use in [[Aura Reserve]]s. The process of channelling [[Aura]] stored this way is not appreciably different from drawing it from your immediate surroundings, other than you can guarantee you actually *have* a high density of [[Aura]] at your disposal.

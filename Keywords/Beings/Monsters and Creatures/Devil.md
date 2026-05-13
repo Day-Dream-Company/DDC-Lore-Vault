@@ -1,0 +1,1 @@
+A [[Devil]] is an extra planar [[Spirit]] from [[Nine Hells]] that makes deals with [[Humanoid]]s, trading power for their soul. [(Ref)](https://discord.com/channels/1206338624334078062/1418137993197125713/1418294517093630146)

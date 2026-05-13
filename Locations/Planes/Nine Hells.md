@@ -1,0 +1,1 @@
+The [[Nine Hells]] is a region on the [[Planar Dimension]] where malevolent and selfish [[Spirit]]s have chosen to congregate.
