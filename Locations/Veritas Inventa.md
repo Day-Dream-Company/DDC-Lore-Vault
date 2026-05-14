@@ -1,4 +1,4 @@
-This is a magic item repair, research, and recharge service center located in [[Sev’reon]] in the top of the lower section, owned and operated by [[Aster Kenos]].
+This is a magic item repair, research, and recharge service center located in [[Locations/Cities and Towns/Sev'reon]] in the top of the lower section, owned and operated by [[Aster Kenos]].
 
 Name Options:
 - Veritas Revelatur (Truth Revealed)

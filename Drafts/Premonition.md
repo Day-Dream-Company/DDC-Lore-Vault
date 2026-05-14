@@ -1,6 +1,6 @@
-Akela couldn’t remember where he was. He couldn’t remember *why* he was here. He was… in Sev’reon? Of course he was. He lived here, didn’t he? Or did he live somewhere else? He didn’t know what he was remembering.
+[[Akela Kalani|Akela]] couldn’t remember where he was. He couldn’t remember *why* he was here. He was… in [[Sev'reon]]? Of course he was. He lived here, didn’t he? Or did he live somewhere else? He didn’t know what he was remembering.
 
-Someone slammed into him from behind, sending them both sprawling to the ground. The stranger, a woman, scrambled to her feet and continued running without even addressing Akela. He found himself looking up from under a sea of people, all running, fleeing from something. Far up beyond them, wider than the span of his narrowing vision, was Sev’reon’s globe of pure manifested Aura. The city’s defensive armament was normally comforting, but now the barrier was teetering on a knife’s edge and threatening to fail. Instead of the smooth spherical ethereal surface he expected, he instead saw a much larger dome of flickering geometry and hexagonal facets. Entire regions of segments were missing, and thin, weak panels blinked in and out of existence as they were needed to protect the capital.
+Someone slammed into him from behind, sending them both sprawling to the ground. The stranger, a woman, scrambled to her feet and continued running without even addressing [[Akela Kalani|Akela]]. He found himself looking up from under a sea of people, all running, fleeing from something. Far up beyond them, wider than the span of his narrowing vision, was [[Sev'reon|Sev’reon's]] globe of pure manifested Aura. The city’s defensive armament was normally comforting, but now the barrier was teetering on a knife’s edge and threatening to fail. Instead of the smooth spherical ethereal surface he expected, he instead saw a much larger dome of flickering geometry and hexagonal facets. Entire regions of segments were missing, and thin, weak panels blinked in and out of existence as they were needed to protect the capital.
 
 From deep within him, as if he were a stranger in his own body, something pushed him to stand. His body dragged itself to its feet, and the current of people mercifully parted before him. The thunder and noise of disaster slowly filtered in through his damaged senses. This was not the Sev’reon he knew, it couldn’t be.
 
@@ -145,3 +145,6 @@ He leans in, and collects his bedroll and pillow, closes the tent flap behind hi
 Something inside glows once again.
 
 This time it doesn't go out.
+
+# Notes
+#Narrative #WIP #Akela #Aster #Daz #Tobi 

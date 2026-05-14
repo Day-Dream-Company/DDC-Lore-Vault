@@ -1,4 +1,4 @@
-Is the princess of the kingdom of [[Sev’ren]] and lives in the capital city [[Sev’reon]].
+Is the princess of the kingdom of [[Sev’ren]] and lives in the capital city [[Locations/Cities and Towns/Sev'reon]].
 She is approximately 25 years old.
 She went to [[Sev’reon Magic School]] at the same time as [[Aster Kenos]] and with some overlap with [[Akela Kalani]].
 # Magic

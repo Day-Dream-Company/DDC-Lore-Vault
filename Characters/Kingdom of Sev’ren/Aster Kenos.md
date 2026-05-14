@@ -85,11 +85,11 @@ His core abilities would then be:
 - [[Summoning]]: [[Aura]] transfer, dimensional bending (primarily time).
 ## Special Moves and Team-Ups
 ### Lorentz Cascade
-This is a team-up move with [[Tobi]]. The premise is that [[Aster Kenos]] can use time manipulation to cause some source of [[Aura]], such as the giant gem in [[Sev’reon]], to speed up. This increases it's local [[Aura]] output, which he can then absorb and channel into even stronger time dilation, using it as a cascading feedback loop to get more and more and more energy per second. He then channels this insane amount of energy to [[Tobi]], whom he *also* accelerates through time. Accelerating her allows her to channel [[Aura]] at a safe rate, because from her perspective she is receiving it more slowly because her time is moving fast, which allows her to channel [[Aura]] into a continuous attack at rates that would normally be impossible without severe [[Aura Poisoning]].
+This is a team-up move with [[Tobi]]. The premise is that [[Aster Kenos]] can use time manipulation to cause some source of [[Aura]], such as the giant gem in [[Locations/Cities and Towns/Sev'reon]], to speed up. This increases it's local [[Aura]] output, which he can then absorb and channel into even stronger time dilation, using it as a cascading feedback loop to get more and more and more energy per second. He then channels this insane amount of energy to [[Tobi]], whom he *also* accelerates through time. Accelerating her allows her to channel [[Aura]] at a safe rate, because from her perspective she is receiving it more slowly because her time is moving fast, which allows her to channel [[Aura]] into a continuous attack at rates that would normally be impossible without severe [[Aura Poisoning]].
 
 This would allow someone like [[Tobi]] to fire a Kaiju annihilating beam for as long as [[Aster Kenos]] can maintain the bridge. It is [[Aster Kenos]]'s ultimate "world ending" trump card, and if he is ever forced to use it, it would almost certainly kill him.
 
-I imagine that he can only do this somewhere like [[Sev’reon]] where he has access to a massive source of [[Aura]]. I also think that he would call [[Sev’erna]] to shut down the city's power draw while he does it, to prevent damage to the crystal.
+I imagine that he can only do this somewhere like [[Locations/Cities and Towns/Sev'reon]] where he has access to a massive source of [[Aura]]. I also think that he would call [[Sev’erna]] to shut down the city's power draw while he does it, to prevent damage to the crystal.
 
 There is *one* scenario where he doesn't die, and that is *only* if he can achieve [[Super Sayin Transformation]] mode and "freely" channel [[Aura]] without evaporating himself.
 ### Lorentz Cradle
@@ -99,7 +99,7 @@ Imagine a newton’s cradle, except that every ball is slowed down to a lesser r
 [[Aster Kenos]] and [[Daz]] can basically do the boogie woogie from JJK, where [[Daz]] swaps their places to confuse the enemy and [[Aster Kenos]] uses augmented punches to just armor break right through big targets.
 # Relationships
 ## [[Daz]]
-Aster and Daz met prior to daz leaving [[Sev’reon]] to search for the [[Swalescape]], and became friends. They apparently play the [[DDC Version of MTG Concept]], whatever that is.
+Aster and Daz met prior to daz leaving [[Locations/Cities and Towns/Sev'reon]] to search for the [[Swalescape]], and became friends. They apparently play the [[DDC Version of MTG Concept]], whatever that is.
 
 # Physical Appearance
 Height: 5'11"
