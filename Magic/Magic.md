@@ -1,3 +1,7 @@
+---
+aliases:
+  - magic
+---
 [[Magic]] is what people call the process of spending relatively large amounts of [[Aura]] to produce any of a wide variety of effects, which might be otherwise imposible by non-magical means.
 # The Origin of Magic
 In the same way that all beings generate [[Aura]] but only large beings like [[Primordial]]s or [[Great Spirit]]s produce meaningful amounts, all beings generate a mechanism or framework by which [[Magic]] can actually be enacted, but these frameworks are equally minuscule compared to their source. In small beings, such as humans, this framework presents itself as their [[Dynamic]]. In the largest of beings, such as the [[Primordial]]s, the degree that they affect the laws of the universe is so great that it enables world changing feats of [[Magic]] to be performed.

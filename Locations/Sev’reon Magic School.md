@@ -1,3 +1,7 @@
+---
+aliases:
+  - academy
+---
 This is a Mag College that [[Sev’erna]], [[Aster Kenos]], and [[Akela Kalani]] went to.
 # Design and Renders
 ## Common Hallway

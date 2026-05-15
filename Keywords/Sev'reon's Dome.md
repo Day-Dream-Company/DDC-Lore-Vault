@@ -1,0 +1,8 @@
+---
+aliases:
+  - barrier
+  - dome
+  - shield dome
+  - shield wall
+---
+[[Sev'reon]] has a magical dome that protects the city, preventing most unwanted passage and monitoring anything that passes though it. It is probably capable of deflecting attacks both magical and non-magic, but it is not immune to certain types of long range [[Summoning]].

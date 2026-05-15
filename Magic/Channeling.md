@@ -1,0 +1,6 @@
+---
+aliases:
+  - channeled
+  - channel
+  - channeling
+---

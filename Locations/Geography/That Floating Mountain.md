@@ -1,1 +1,0 @@
-The city [[Sev’reon]] is built on a mountain that houses a giant [[Aura Reserve]] in its peak. The peak has somehow broken free and floated away, and is held in place by chains.

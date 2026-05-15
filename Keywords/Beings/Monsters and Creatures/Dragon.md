@@ -1,3 +1,7 @@
+---
+aliases:
+  - dragon
+---
 # Age Classification
 0-5: Wyrmling
 6-15: Very Young
