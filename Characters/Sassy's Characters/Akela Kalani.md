@@ -1,6 +1,7 @@
 ---
 aliases:
   - Akela
+  - Akela's
 ---
 Sassy's character.
 He is a Male Trans "Hawaiian Pacific Islander."

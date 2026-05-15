@@ -1,0 +1,1 @@
+If this word actually has a use, it's probably some type of [[Great Spirit|Greater Spirit]].

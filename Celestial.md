@@ -1,0 +1,1 @@
+A type of [[Great Spirit|Greater Spirit]] or [[Deity]].

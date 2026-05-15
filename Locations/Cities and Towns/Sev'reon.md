@@ -2,7 +2,7 @@
 aliases:
   - Sev'reon's
 ---
-[[Sev'reon]]is the capital of [[Sev’ren]], located at the top of [[That Floating Mountain]].
+[[Sev'reon]]is the capital of [[Sev’ren]], located at the top of [[The Floating Mountain]].
 # The Magic Gem
 We are toying with the idea that the floating mass at the top of the mountain is actually a floating chunk of rock from [[Neamhríocht]], dragged down and anchored to [[DDCTopia]].
 

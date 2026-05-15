@@ -1,3 +1,8 @@
+---
+aliases:
+  - Aster
+  - Aster's
+---
 # Name
 His name is derived from the Greek words for [Star](https://en.wikipedia.org/wiki/Astraeus) and [Void](https://www.google.com/search?q=greek+word+for+void&sca_esv=d139cd1eb4e89a1c&sca_upv=1&rlz=1C1CHBF_enUS986US986&sxsrf=ADLYWIKguK2MaRiS-j0FUd_Vcq1P2rfuWg%3A1723894610681&ei=UovAZuagKYuyptQPpveZ2AI&ved=0ahUKEwjmkZnv9_uHAxULmYkEHaZ7BisQ4dUDCA8&uact=5&oq=greek+word+for+void&gs_lp=Egxnd3Mtd2l6LXNlcnAiE2dyZWVrIHdvcmQgZm9yIHZvaWQyBBAjGCcyCxAAGIAEGJECGIoFMgsQABiABBiRAhiKBTILEAAYgAQYkQIYigUyCxAAGIAEGJECGIoFMgsQABiABBiRAhiKBTIFEAAYgAQyBRAAGIAEMgUQABiABDIKEAAYgAQYFBiHAkjuDFDPA1jgC3ABeAGQAQCYAZUBoAH9AaoBAzAuMrgBA8gBAPgBAZgCA6ACkALCAgoQABiwAxjWBBhHmAMAiAYBkAYIkgcDMS4yoAepDQ&sclient=gws-wiz-serp).
 

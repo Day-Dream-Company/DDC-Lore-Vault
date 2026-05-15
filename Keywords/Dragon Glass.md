@@ -1,3 +1,7 @@
+---
+aliases:
+  - Crystal
+---
 This is a special material that is found naturally as a metal, can be forged into different shapes if done carefully, and will turn to a clear material if heated above a certain temperature. ([Ref](https://discord.com/channels/1206338624334078062/1323873143957229620/1323873311352160298))
 
 It’s defining feature, besides it’s crystal phase change, is that looking through its glass form makes [[Magic]] that would otherwise be invisible, visible. Any [[Magic]], whether it be an enchantment or the [[Aura]] of a living creature, is visible as if it were being actively manifested. The strength of the effect depends on the quality of the glass, and is only ever partially transparent like looking at a reflection on clear glass. It is like a sort of overlay of the real world, like looking through an extra transparent layer of reality. ([Ref](https://discord.com/channels/1206338624334078062/1323873143957229620/1323873552612458558))

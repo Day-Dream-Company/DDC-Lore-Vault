@@ -1,1 +1,6 @@
+---
+aliases:
+  - manifest
+---
+
 This is one of the 4 core types of magic that humanoids have access to
