@@ -152,3 +152,4 @@ This time it doesn't go out.
 - They aren't in the swalescape.
 - Consider making it clear that Akela doesn't retain the full picture of the dreams, even though we saw them in perfect detail.
 - Expand the ending to include the question, include the conversation about "what should I do if you have another nightmare," and akela having another nightmare and waking up Aster.
+- Shorten the "I have never failed a test before" and remove the "This will be no different."
