@@ -1,6 +1,7 @@
+#Rena #Sebastian #Tane #Kuno #Archer #Aster #Daz #Narrative 
 “[[Sebastian Lastname|Sebastian]]. What is that.”
 
-[[Sebastian Lastname|Sebastian]] sat down heavily across the table from [[Rena Lastname|Rena]], two drinks in one hand and a large tray of food in the other. “These are called waffles, doesn’t it look good?”
+[[Sebastian Lastname|Sebastian]] sat down heavily across the table from [[Rena Lastname|Rena]], two drinks in one hand and a large tray of food in the other. *“These* are called *waffles,* doesn’t it look good?”
 
 [[Rena Lastname|Rena]] simply looked at him.
 
@@ -48,7 +49,7 @@ Now we’re getting to the real questions. The second [[Aster Kenos|Aster]] says
 
 [[WUC Archer]] tries to reassure her. “A suspicion isn’t the same as knowing. Besides, [[Aeolia]] is the only other obvious interest given the location. We were never going to convince him we represent a 3rd party. It’s best that we simply let him guess and keep it at that. Trying to lead his conclusion would be a mistake.”
 
-[[Tane Altes|Tane]] seemingly agrees by staying quiet. Silence blankets the conversation until [[Aster Kenos|Aster]] asks another important question. “You mentioned a target earlier. What is it?” “We believe that [[Sev’ren]] is responsible.” "Wait, what?"
+[[Tane Altes|Tane]] seemingly agrees by staying quiet. Silence blankets the conversation until [[Aster Kenos|Aster]] asks another important question. “You mentioned a target earlier. What is it?” “We believe that [[Sev’ren]] is responsible.” "Wait, *what?"*
 
 [[Rena Lastname|Rena’s]] head dropped and she softly said “damn” out loud.
 
@@ -62,7 +63,7 @@ The conversation between [[Tane Altes|Tane]] and [[Aster Kenos|Aster]] starts to
 
 [[Rena Lastname|Rena]] put her hand over her eyes and pressed her temples. This kind of thing was always complicated. Fighting is so much simpler. She liked to be able to face her opponent directly, honorably. There was nothing to be done other than trust that [[Tane Altes|Tane]] knew what he was doing. She almost wished [[Tane Altes|Tane]] would decide to abandon the mission. They would find another way to get what they are looking for. A way that didn’t rely on strangers.
 
-“You, a stranger, are just going to walk into my shop and ask me to incriminate my country?” "Technically you could say I'm asking you to exonerate your country.” “Why come to me, am I your first choice for this or have you already asked all the shop owners on this terrace?” "You have uniquely privileged access to sensitive areas which makes you the ideal candidate for this job." "I have access to the defensive hardware, here in the city! What you're talking about is offensive, external.” "We are working with the tools available to us."
+“You, a stranger, are just going to walk into my shop and ask me to incriminate my country?” "Technically you could say I'm asking you to exonerate your country.” “Why come to me, am I your first choice for this or have you already asked all the shop owners on this terrace?” "You have uniquely privileged access to sensitive areas which makes you the ideal candidate for this job." "I have access to the *defensive hardware,* here in the city! What you're talking about is offensive, external.” "We are working with the tools available to us."
 
 [[Tane Altes|Tane’s]] voice cut through the link sharply. “Get ready, [[Kuno Lastname|Kuno]].”
 
@@ -70,7 +71,7 @@ The conversation between [[Tane Altes|Tane]] and [[Aster Kenos|Aster]] starts to
 
 Across the street from [[Rena Lastname|Rena]] and [[Sebastian Lastname|Sebastian]], as well as miles away beyond [[Sev'reon|Sev'reon's]] dome, [[Tane Altes|Tane]] and [[Kuno Lastname|Kuno]] raise their hands in perfect synchronicity. A jet-black flaming crystal sat nestled in a small locking box in [[Kuno Lastname|Kuno's]] hand, and another gem set into the back of her raised gauntlet glowed in preparation. [[WUC Archer]]] held her [[Tane's Mirrors|mirror]] for her, which hummed to life as [[Tane Altes|Tane]] activated the connection, forming a portal into [[Aster Kenos|Aster's]] shop. They waited for [[Aster Kenos|Aster]] to say “Yeah, alright. Fine. Just show me whatever it is,” and then as one, they level their hands with an arcane gesture. [[Kuno Lastname|Kuno]] draws [[Aura|aura]] from the bright crystal on one hand and uses it to shunt the dark gem across space, where [[Tane Altes|Tane]] catches it in his telekinetic grip holding it aloft.
 
-"What... is this?" "That is a great question, isn't it.”
+"What... *is* this?" "That is a great question, isn't it.”
 
 You wouldn’t be able to tell, but [[Rena Lastname|Rena's]] heart was pounding. This was by far the most risky part of the plan. They don’t have another sample, and this thing is dangerous. If they lost possession of it they would be set back to square one, and if [[Sev’ren]] truly isn’t involved then that won’t stay the case for long. Not if they were simply handed a new [[Magic|magic]] toy to play with. She barely registered the rest of the conversation, only bits and pieces making it through.
 
@@ -116,7 +117,7 @@ Clearly confused and frustrated, [[Sebastian Lastname|Sebastian]] relents but st
 
 “I vote we go in.”
 
-Before [[Rena Lastname|Rena]] even had a chance to respond, [[Sebastian Lastname|Sebastian]] interrupts him pointing out the window. “Wait, what’s that?”
+Before [[Rena Lastname|Rena]] even had a chance to respond, [[Sebastian Lastname|Sebastian]] interrupts her, pointing out the window. “Wait, what’s that?”
 
 A shadow darkened the street and swept across their view. [[Rena Lastname|Rena]] leaned closer to the glass and looked up, shielding her eyes from the sun. Something fast and dark flew by overhead, and at the same time a new stranger materialized at the door to [[Veritas Inventa]].
 
@@ -153,12 +154,5 @@ The glass window behind [[Rena Lastname|Rena]] shimmered and revealed a new scen
 
 “All in all, I think that went well,” he said.
 
-# Overview
-This is a directly parallel version of [[An Offer You Can't Refuse]] from the perspective of [[WUC]]. [[Rena Lastname]] and [[Sebastian Lastname]] are in some sort of nearby building (probably somewhere one could sit by a window with food, where adventures might be commonly seen), [[Tane Altes]] is entering [[Veritas Inventa]] to speak with [[Aster Kenos]], and [[Kuno Lastname]] and [[WUC Archer]] are outside the magic dome with the [[Dark Aura]] [[Aura Reserve]].
-
-The plan is to teleport the crystal in and out via the mirrors to prevent city security from being able to detect it, and for [[Rena Lastname]] and [[Sebastian Lastname]] to provide backup as a last resort in case [[Tane Altes]] somehow needs help. [[Kuno Lastname]] and [[WUC Archer]] are on crystal duty because [[Kuno Lastname]] is [[Soul Locked]] and [[WUC Archer]] is not a mage, so they are least e[[Dark Aura]]e [[Dark Aura]].
-
-Something does go slightly wrong: [[Tane Altes]] loses his thought projection link with [[WUC]] when [[Aster Kenos]] gravity traps him, and [[Daz]] shows up with [[Jawaku]] which would make a fight a terrible idea. other than that, the mission goes smoothly. Nothing that [[Tane Altes]] couldn’t handle on his own, and since the mirrors are more of a permanent enchantment they were never interrupted.
-# Ideas
-## Sebastian's Food
-- A stack of items that are a combination of funnel cake and waffles.
+# Continued Reading
+[[Daz Vs Tane]]

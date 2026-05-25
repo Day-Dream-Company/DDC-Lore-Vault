@@ -1,3 +1,4 @@
+#Aster #Tane #Daz #Narrative 
 *Tap tap. Swipe, tap. Swipe. Swipe. Tap.*
 
 Aster sits on a stool behind his shop’s front desk, partially reclined against the wall, his feet propped up on one of the shelves under the counter, idly tapping at his crystal interface. A complex diagram of conduit junctions and mana reservoirs slides and zooms around the glass under his fingers. He flicks through multiple pages of networks, focusing manifolds, projectors, and then he scrolls back again. Levels were on the low side of perfect, but still nominal. It would be time for a refitting soon, but not yet. He sighs, blanks out the interface with a wave, and puts it down beside him on the counter with a clack.
@@ -216,11 +217,6 @@ The newcomer watches him leave and then turns to Aster. He is wearing a black le
 Aster pockets his interface, shakes out his still sore fist, and unconvincingly says with a shaky voice "Yeah... I hope so."
 # Continued Reading
 - [[Exactly As Planned]]
-# Outline
-[Google Drive Link](https://docs.google.com/document/d/1kPasEJxRYtNhyhV3NFdQsXUJOaRsI9TZTQLG1LsjWqo/edit?tab=t.0)
-
-[[Aster Kenos]] is at his shop, bored, when someone comes to his door. This person is [[Tane Altes]], and he is here to convince [[Aster Kenos]] to engage in illegal espionage about events that [[Aeolia]] believes [[Sev’ren]] is responsible for. [[Tane Altes]] is skeptical that [[Aster Kenos]] will agree and fully expects to have to take extreme action to keep his presence in the city secret, but also agrees that [[Aster Kenos]] is the ideal candidate because for this job. He has the skill and the access to do it cleanly. [[Aster Kenos]] catches on sort of slowly because [[Tane Altes]] leads him on gently, but ultimately [[Aster Kenos]] understands the severity of what [[Tane Altes]] wants and turns on him. [[Tane Altes]] tempts [[Aster Kenos]] one last time with an offer of some kind of intellectual and magical curiosity in exchange, and also tells him that the goal is not to destabilize his country, but rather to absolve it. He claims that Aster has the opportunity to potentially stop a war before it starts. He and [[Tane Altes]] have a “fight” in mental wizard chess kind of way, where the focal point of the fight is [[Aster Kenos]] putting [[Tane Altes]] in a strong gravitational field reducing the speed of time around him, and [[Tane Altes]] is able to fight back by manifesting his forcefields with his hyper accelerated mind despite his body being slowed down. The stress of sustaining the warp field is not something [[Aster Kenos]] can do for more than a minute or two and [[Tane Altes]] basically waits him out. They finish the fight with a sort of respect for each other, but are still wary. Ultimately [[Aster Kenos]] agrees, triggering the horrifying vision that triggers the fight, but it is ultimately interrupted by [[Daz]] showing up.
-
 # Notes
 ## [[Tane's Glasses]]
 I like the idea that [[Tane's Glasses]] have been enchanted to have a direct connection to his brain via [[Summoning]] magic and that they could serve as inspiration here for [[Aster Kenos]] to potentially work with [[Tane Altes]] to build a similar high speed interface for [[Aster Kenos]] to replace his physical collapsible orb.
