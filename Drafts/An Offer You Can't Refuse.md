@@ -214,11 +214,8 @@ The first stranger acknowledges the second, then turns to Aster and simply says 
 The newcomer watches him leave and then turns to Aster. He is wearing a black leather duster jacket and appears to be closer to Aster's own age. Beyond that Aster can't bother to observe anymore. He asks Aster, "What was that about, are you ok?"
 
 Aster pockets his interface, shakes out his still sore fist, and unconvincingly says with a shaky voice "Yeah... I hope so."
-# Continuations
-# Canon
-(Nothing, yet)
-# Non-Canon
-- [[Daz Vs Tane]]
+# Continued Reading
+- [[Exactly As Planned]]
 # Outline
 [Google Drive Link](https://docs.google.com/document/d/1kPasEJxRYtNhyhV3NFdQsXUJOaRsI9TZTQLG1LsjWqo/edit?tab=t.0)
 
