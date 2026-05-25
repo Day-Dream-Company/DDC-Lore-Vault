@@ -1,5 +1,10 @@
+---
+aliases:
+  - Rena
+---
+
 # Physical Appearance
-I'm switching [[Rena]] from a guy to a girl, because [[WUC]] is a sausage fest. This also means her name probably needs to change, maybe.
+I'm switching [[Rena Lastname]] from a guy to a girl, because [[WUC]] is a sausage fest. This also means her name probably needs to change, maybe.
 # Names
 - Avon
 - Ava

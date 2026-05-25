@@ -1,3 +1,3 @@
-[[Valen Elicron]] and [[Rena]]'s adventuring group.
+[[Valen Elicron]] and [[Rena Lastname]]'s adventuring group.
 
-The group had many members. Notable ones include: [[Rena]], [[Valen Elicron]], [[Phyra]], [[Tane's Sister]].
+The group had many members. Notable ones include: [[Rena Lastname]], [[Valen Elicron]], [[Phyra]], [[Tane's Sister]].

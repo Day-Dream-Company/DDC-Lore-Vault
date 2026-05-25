@@ -11,6 +11,6 @@ I do not know where the lenses themselves were made, but I am thinking about hav
 - The smiths ask where she was able to get the material, as getting more would allow them to finish a long term job for some rich person.
 - She and the rest of the [[Doomed Adventurers]] agree to track down the lead and find more of it in exchange for payment.
 - They fight the dragon.
-- They return with the [[Dragon Glass]] and [[Rena]] commissions the [[Crystal Sword]].
+- They return with the [[Dragon Glass]] and [[Rena Lastname]] commissions the [[Crystal Sword]].
 
 At some point the glasses are given to [[Tane Altes]], and he keeps them from then on.
