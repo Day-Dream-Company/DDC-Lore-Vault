@@ -1,7 +1,5 @@
-#Daz #Jawaku #Aster #Tane #Narrative #Fight
-(Follows from [[An Offer You Can't Refuse]])
-
-From the second Daz opened the door to [[Veritas Inventa]], he could feel that something was wrong. It was the sound of the welcome chimes. He had come here often enough in the past to know how Aster’s doorbells sounded, but this time there was a difference. It was like they had a echo to them, as if the size of the room were larger than he knew it actually was. It was a change subtle enough that at first he was not even fully conscious of what he was sensing, only that he couldn’t help but feel uneasy.
+#Daz #Jawaku #Aster #Tane #Narrative #Fight #WIP 
+From the second [[Daz Lastname|Daz]] opened the door to [[Veritas Inventa]], he could feel that something was wrong. It was the sound of the welcome chimes. He had come here often enough in the past to know how [[Aster Kenos|Aster's]] doorbells sounded, but this time there was a difference. It was like they had a echo to them, as if the size of the room were larger than he knew it actually was. It was a change subtle enough that at first he was not even fully conscious of what he was sensing, only that he couldn’t help but feel uneasy.
 # (For reference)
 In the far distance of the recent past, chimes jingle.
 

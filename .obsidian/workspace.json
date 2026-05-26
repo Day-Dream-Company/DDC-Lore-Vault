@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -212,9 +213,10 @@
   },
   "active": "6f1472189d675799",
   "lastOpenFiles": [
+    "Characters/Swalescape/Daz Lastname.md",
+    "Drafts/Daz Vs Tane.md",
     "Drafts/Exactly As Planned.md",
     "Drafts/An Offer You Can't Refuse.md",
-    "Drafts/Daz Vs Tane.md",
     "Characters/Kingdom of Sev’ren/Ruth Lastname.md",
     "Magic/Aura Reserve.md",
     "Characters/Aeolus/Wake Up Crew/Artis Lastname.md",
@@ -238,7 +240,6 @@
     "Keywords/Dragon Glass.md",
     "Magic/Channeling.md",
     "Magic/Dynamic.md",
-    "Locations/Geography/The Floating Mountain.md",
     "Media/Characters/Aster/IMG_3192.jpg",
     "Media/Characters/Akela/20251119_034500.jpg",
     "Media/Characters/Akela/Unconfirmed 433259.crdownload",

@@ -14,4 +14,4 @@ Basically all of my characters are sad, but one of the things that sets them apa
 - [[Akela Kalani]]: "It's just so much..."
 - [[Kaito]]: "Get over it, it's pathetic."
 ## Daz
-- [[Daz]]: 
+- [[Daz Lastname]]: 

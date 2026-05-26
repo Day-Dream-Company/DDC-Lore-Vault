@@ -1,1 +1,1 @@
-This is the location where [[Daz]] is from
+This is the location where [[Daz Lastname]] is from

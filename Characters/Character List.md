@@ -29,7 +29,7 @@
 - [[Theo]]
 # [[Swalescape]]
 - [[CJ]]
-- [[Daz]]
+- [[Daz Lastname]]
 # Unaligned
 - [[June]]
 - [[Xion]]

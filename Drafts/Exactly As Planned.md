@@ -1,4 +1,4 @@
-#Rena #Sebastian #Tane #Kuno #Archer #Aster #Daz #Narrative 
+#Rena #Sebastian #Tane #Kuno #Archer #Aster #Daz #Narrative #WIP 
 “[[Sebastian Lastname|Sebastian]]. What is that.”
 
 [[Sebastian Lastname|Sebastian]] sat down heavily across the table from [[Rena Lastname|Rena]], two drinks in one hand and a large tray of food in the other. *“These* are called *waffles,* doesn’t it look good?”

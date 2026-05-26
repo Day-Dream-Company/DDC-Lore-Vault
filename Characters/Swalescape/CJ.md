@@ -1,3 +1,3 @@
-[[Daz]]’s brother.
+[[Daz Lastname]]’s brother.
 # Magic
 #Manifestation #Augmentation 

@@ -101,9 +101,9 @@ There is *one* scenario where he doesn't die, and that is *only* if he can achie
 (Change the name)
 Imagine a newton’s cradle, except that every ball is slowed down to a lesser rate of time. The force per second of each impact should in theory be higher with each stage. This is the railgun equivalent of hitting a nail with a hammer. The gun’s hammer itself *is* the propulsion.
 ### The Boogie-Woogie
-[[Aster Kenos]] and [[Daz]] can basically do the boogie woogie from JJK, where [[Daz]] swaps their places to confuse the enemy and [[Aster Kenos]] uses augmented punches to just armor break right through big targets.
+[[Aster Kenos]] and [[Daz Lastname]] can basically do the boogie woogie from JJK, where [[Daz Lastname]] swaps their places to confuse the enemy and [[Aster Kenos]] uses augmented punches to just armor break right through big targets.
 # Relationships
-## [[Daz]]
+## [[Daz Lastname]]
 Aster and Daz met prior to daz leaving [[Locations/Cities and Towns/Sev'reon]] to search for the [[Swalescape]], and became friends. They apparently play the [[DDC Version of MTG Concept]], whatever that is.
 
 # Physical Appearance

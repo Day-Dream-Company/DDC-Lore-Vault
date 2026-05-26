@@ -1,3 +1,8 @@
+---
+aliases:
+  - Daz
+---
+
 # Relationships
 ## [[Aster Kenos]]
 Daz and Aster met and became friends prior to Daz leaving to find the [[Swalescape]]. They apparently play the [[DDC Version of MTG Concept]], whatever that is.
