@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Daz Vs Tane"
             }
+          },
+          {
+            "id": "728c65b409689b8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drafts/Premonition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Premonition"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -211,10 +224,17 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "6f1472189d675799",
+  "active": "728c65b409689b8e",
   "lastOpenFiles": [
-    "Characters/Swalescape/Daz Lastname.md",
+    "Drafts/Recruiting Kuno.md",
+    "Drafts/Showstopper.md",
+    "Drafts/Learning From The Past.md",
+    "Drafts/Kuno’s Death.md",
     "Drafts/Daz Vs Tane.md",
+    "Drafts/Non-Canon/Fire Bladum - Shadow Dragon.md",
+    "Drafts/Non-Canon/CJ Might Be A BAMF.md",
+    "Drafts/Non-Canon",
+    "Characters/Swalescape/Daz Lastname.md",
     "Drafts/Exactly As Planned.md",
     "Drafts/An Offer You Can't Refuse.md",
     "Characters/Kingdom of Sev’ren/Ruth Lastname.md",
@@ -234,12 +254,6 @@
     "Deity.md",
     "Keywords/Beings/Great Spirit.md",
     "Great Spirits/Ancient Annihilator.md",
-    "Characters/Villains/Druid Villain.md",
-    "Team-ups and fighting moves/Moment of Eternity.md",
-    "Team-ups and fighting moves/Lorentz Cascade.md",
-    "Keywords/Dragon Glass.md",
-    "Magic/Channeling.md",
-    "Magic/Dynamic.md",
     "Media/Characters/Aster/IMG_3192.jpg",
     "Media/Characters/Akela/20251119_034500.jpg",
     "Media/Characters/Akela/Unconfirmed 433259.crdownload",
@@ -254,7 +268,6 @@
     "Media/Characters/Group Images/Akela, Kaito, & Theo/IMG_2956.jpg",
     "Media/Characters/Group Images/Akela, Kaito, & Theo/Unconfirmed 830634.crdownload",
     "Media/Characters/Group Images/Akela, Kaito, & Theo",
-    "Media/Characters/Group Images/New folder",
     "Media/Characters/Ruth/Style Ref/20250428_135550.jpg",
     "Media/Characters/Ruth/Style Ref/20240802_173622.jpg",
     "Media/Characters/Akela/IMG_2819.jpg",

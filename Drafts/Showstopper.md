@@ -1,4 +1,3 @@
-[Docs link](https://docs.google.com/document/d/14osecdtfTGGEqBNzlVhQHcEB6Jd-OFZVXR0ishdSBuA/edit?tab=t.0):
 This is just a rough idea for a potential story, and likely conflicts with existing lore. It is experimental.
 
 This event follows soon after the draft I wrote a long time ago about [[Valen Elicron]] complaining to [[Rena Lastname]] about being treated differently for being a mage.
