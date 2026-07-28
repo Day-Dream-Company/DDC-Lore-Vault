@@ -1,5 +1,9 @@
+Lyssa always enjoyed the beginning of the academic cycle. The new students practicing and trying to one-up each other in preparation for the placement process brought a certain energy to the campus that the more established mages inevitably eventually lose. Everyone always arrives with something to prove, and most want to be the one to set the new bar just a little higher. Every new student has a unique Dynamic, a new color and style all their own, and the variation only makes the Academy a more complete collection of perspectives. There are traditionalists within the faculty who disagree, of course, but there was no point in concerning oneself with those who have lost their sense of ambition and discovery. The fundamentalists had a valid, but boring, role to play in the academy.
+
+She gently shook her head and removed the thoughts from her mind. She shouldn’t be disparaging her peers, and besides, it was distracting her from her own goals.
+
+There weren’t many students out on the campus this evening.
 # Overview
-[Link to google doc](https://docs.google.com/document/d/1ASD0jkSJ9n9IpBilCDGvrvF5nqOqgD0Rhd56bdo0OTU/edit?usp=sharing)
 [[Aster Kenos]] is practicing basic [[Summoning]], prior to confirming he is a natural summoner, and is struggling to lift a small stone. He cannot lift the stone from rest. If he drops the stone he can hover it, but it gets harder and harder after less than a second and he fails. When he drops it, the stone cracks into the ground with extreme force. He is becoming disillusioned but still trying to prove he can do it all.
 
 [[Lyssa Vrendel]] finds him, and figures out that the stone is actually still falling, but what [[Aster Kenos]] Is doing is *stretching space* under and above it to make it appear to hover. This is why it costs exponentially more [[Aura]] the longer it goes: because it is falling faster and space needs to be stretched further and faster over time.

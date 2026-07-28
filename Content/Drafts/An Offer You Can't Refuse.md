@@ -215,14 +215,7 @@ The first stranger acknowledges the second, then turns to Aster and simply says 
 The newcomer watches him leave and then turns to Aster. He is wearing a black leather duster jacket and appears to be closer to Aster's own age. Beyond that Aster can't bother to observe anymore. He asks Aster, "What was that about, are you ok?"
 
 Aster pockets his interface, shakes out his still sore fist, and unconvincingly says with a shaky voice "Yeah... I hope so."
-# Continued Reading
+# Continuations
+## Canon
 - [[Exactly As Planned]]
-# Notes
-## [[Tane's Glasses]]
-I like the idea that [[Tane's Glasses]] have been enchanted to have a direct connection to his brain via [[Summoning]] magic and that they could serve as inspiration here for [[Aster Kenos]] to potentially work with [[Tane Altes]] to build a similar high speed interface for [[Aster Kenos]] to replace his physical collapsible orb.
-## Aster's Stasis Field
-My initial justification/description of Aster's magic is that he's using gravity, or energy density, to create warped spacetime that results in the slower passage of time, but I want to revisit this and make sure the physics are actually even remotely possible. If not, then I might switch his magic to be raw time manipulation using [[Summoning]] and [[Augmentation]].
-
-After doing some math on some online calculators, it seems like getting a 10:1 time factor using a mass that is 3ft and 10 feet from the two positions would require something like 100 times the mass of earth, which is... nonsense lol. This might not be possible the way I'm imagining it. I was also considering avoiding part of this issue by claiming that he was simply condensing [[Aura]] itself as a form of energy to slow time, because all energy contributes to time dilation, not just mass. The issue is that all energy contributes to *gravity* as well, so this actually changes nothing. I may need to switch him to direct time control in order for this to work in way that doesn't fuck everything up.
-
-If I change him, then I think I'm changing him to [[Summoning]]: Dimensional warping, and [[Augmentation]]: Fundamental forces. I would keep the same limitations f distance, and I would keep the same micro black hole network exploit to overcome it, but the magic he is working over that network would be raw time control, not necessarily gravity.
+- [[Daz Vs Tane]]

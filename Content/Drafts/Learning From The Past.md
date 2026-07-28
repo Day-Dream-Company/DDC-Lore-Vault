@@ -1,1 +1,1 @@
-[[WUC Archer]] and [[Tane Altes]] propose [[WUC]] to the [[Manifold]]. They make their case using [[Tane Altes]]'s mental storytelling projection, serving as a description of the founding history of [[Aeolia]] and the use of the [[Thought Bomb]].
+[[WUC Archer]] and [[Tane Altes]] propose [[WUC]] to the [[Manifold]]. They make their case using [[Tane Altes]]'s mental storytelling projection, serving as a description of the founding history of [[Aeolia]] and the use of the [[Anti-Magic Weapon]].

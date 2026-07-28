@@ -1,4 +1,3 @@
-[Google Doc Link](https://docs.google.com/document/d/1Z3qo2R4kvEfhpNvKnsqb_3vB8EZMEcepB9ASDtli0hI/edit?usp=sharing).
 # Outline
 - Start with daz saying "Aster, I can feel you squinting at me..." even though Daz can't see aster behind him (Jawaku probably told him lol)
 - Complain about humidity in the swamp, but also why isn't Daz sweating
