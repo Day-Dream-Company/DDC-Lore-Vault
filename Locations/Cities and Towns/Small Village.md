@@ -1,1 +1,0 @@
-This is the small village on the [[Sev’ren]] and [[Aeolia]]n border that gets [[Thought Bomb]]ed by [[Weltzer]].

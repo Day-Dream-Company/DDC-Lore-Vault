@@ -1,3 +1,0 @@
-I like the idea that this used to belong to Iay’s sister, and it came into [[Rena]] Poseidon burring the event that killed the group. [[Rena]] is seriously injured, she gives her the amulet and maybe an [[Aura Reserve]] to keep her going, and it is able to keep her alive with a stab wound or something until he can escape and find help.
-
-It would make sense for her to have it because she is the most skilled mage in the group and a seasoned adventurer. She has the [[Magic]]al endurance to really make use of it, and it allows her to sort of tank at the same time as she focuses on supporting others. Her [[Dynamic]] might even be useful to shield others via the amulet alone, like maybe in the scene with the dragon fire.

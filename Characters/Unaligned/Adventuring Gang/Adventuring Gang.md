@@ -1,1 +1,0 @@
-[[Kuno]]’s old group of adventurers turned lite criminals.

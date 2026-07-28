@@ -1,1 +1,0 @@
-Daz’s young blacksmith character. I think it would be fun for her parents to be the ones who made [[Rena]]’s [[Crystal Sword]], in a small world kind of way.

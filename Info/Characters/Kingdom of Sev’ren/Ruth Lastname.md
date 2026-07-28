@@ -1,0 +1,18 @@
+---
+aliases:
+  - Ruth
+---
+- Barrier manifestation/summoning eldritch knight.
+- feels slightly ostracized about her magic, doesn't fit in with her family and feels like she has yet to meet the expectations of her station.
+- In response to challenges or criticism her tendency is to sometimes shrink and be passive, rather than to aggressively defend herself and her talent.
+- Her barriers are similar to Tane and his siter, but more dynamic and tuned because she is more skilled and powerful.
+- Her dynamic is some shade of purple.
+- Her summoning is more along the lines of pact summoning, where you summon BEINGS, rather that just moving objects.
+- She is mostly eldritch knight styled but with a splash of druid.
+- The older members of her family are skeptical of her pact summoning, but still give her the benefit of the doubt so long as she keeps them in control.
+- Pact spirits choose to follow her because they get something mutual in return.
+- At the end of magic college she has only one primary medium/large partner spirit, and then occasionally has tiny or small spirits.
+- The primary spirit she has is genuinely kind of scary, and might actually be dangerous, if it were not friendly with Ruth and was willing to be calm with her friends.
+- When aster talks to her about the dome project, he is likely brought to her by some kind of butler, and she is currently communing with another spirit on some other plane. Like something very occult looking, eyes rolled back, etc.
+- She's always been that goth girl who talks to spirits in school, but this might be the first time Aster has seen it work for real and seen the scope of it.
+- 

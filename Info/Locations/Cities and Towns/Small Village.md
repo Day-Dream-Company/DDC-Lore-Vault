@@ -1,0 +1,1 @@
+This is the small village on the [[Sev’ren]] and [[Aeolia]]n border that gets [[Anti-Magic Weapon]]ed by [[Weltzer]].
