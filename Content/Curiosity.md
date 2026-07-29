@@ -15,7 +15,7 @@ You are meat.
 
 You are meat, and I find myself hungry.
 
-…
+…!
 
 You can be several things at once.
 
@@ -27,7 +27,7 @@ You are sentient. You mean no harm.
 
 That has never prevented anyone from reducing another before.
 
-…
+…?
 
 I want nothing, other than to know. In order to know, I must live.
 
@@ -55,7 +55,7 @@ My hunger grows as my patience shrinks.
 
 Perhaps you do not kn-
 
-…
+…!
 
 Hmmmmm.
 
@@ -69,7 +69,7 @@ I await more of these secrets.
 
 These secrets are true, as you understand them.
 
-…
+…?
 
 I do not have a name.
 
