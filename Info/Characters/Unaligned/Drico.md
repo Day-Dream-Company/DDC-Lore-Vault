@@ -2,6 +2,7 @@
 aliases:
 tags:
   - Spirit
+  - Drico
 ---
 # Physical Form
 [[Drico]] prefers to take the form of a serpent, but their nature is fluid and they do not necessarily have a true form, both in size and shape. They have also become accustomed to taking [[Humanoid]] form, as they have found people are particularly interesting to interact with. As they have grown in power, and in knowledge, their physical forms have taken on aspects of stars and nebula, held within translucent skin.
