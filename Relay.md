@@ -1,0 +1,1 @@
+A type of device that [[Aster Kenos|Aster]] uses to assist him in performing [[Magic]] at a distance.

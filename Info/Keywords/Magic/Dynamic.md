@@ -1,5 +1,6 @@
 ---
 aliases:
   - Dynamic's
+  - aura
 ---
 All [[Aura]]s have a "[[Dynamic]]," which just means the way they appear visually. [[Daz Lastname]]'s is flames, [[Tobi]]'s is wind and lighting, etc. Technically speaking, the color is probably also part of the [[Dynamic]].
