@@ -1,3 +1,7 @@
+---
+aliases:
+  - Spirit of Death
+---
 This great spirit is the giant black hole in the sky at the center of their solar system.
 # Death In DDC
 When people die, their [[Soul]] leaves their body and is drawn into the black hole. Types of magic like [[resurrection]] are capable of manipulating the [[Soul]] and potentially preventing it from crossing the event horizon and bring lost to the [[Nether]] forever.
